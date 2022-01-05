@@ -1,6 +1,28 @@
-body {
-  padding-top: 50px;
-  padding-bottom: 30px;
+
+body
+{
+  background-image: url('../images/background.jpg');
+}
+
+h1
+{
+  font-family: 'Times New Roman', Times, serif;
+  color: #1da1ad;
+}
+
+p
+{
+  font-size: 30px;
+}
+
+.navbar 
+{
+  background-color: #1da1ad;
+}
+
+.footer 
+{
+  background-color: #1da1ad;
 }
 
 .theme-dropdown .dropdown-menu {
@@ -15,4 +37,20 @@ body {
 
 .theme-showcase .navbar .container {
   width: auto;
+}
+
+.nav-link
+{
+  color: white;
+}
+.navbar-light .navbar-nav .nav-link
+{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 36px;
+  color: white;
+}
+
+.navbar-light .navbar-nav .nav-link.active
+{
+  color: lightgrey;
 }
