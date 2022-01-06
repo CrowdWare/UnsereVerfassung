@@ -13,5 +13,10 @@ Menus {
             url: 'projekt.html'
             icon: ''
         }
+        Menuitem {
+            title: 'Abstimmen'
+            url: 'abstimmen.html'
+            icon: ''
+        }
     }
 }

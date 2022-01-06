@@ -2,12 +2,12 @@ import FlatSiteBuilder 2.0
 
 Site {
    title: 'UnsereVerfassung'
-   theme: 'bs5'
+   theme: 'default'
    description: 'Todo'
    copyright: '(C) 2022, CrowdWare '
    keywords: ''
-   author: ''
+   author: 'Olaf Japp'
    logo: ''
    publisher: 'NoPublisher'
-   output: ''
+   output: '../docs'
 }

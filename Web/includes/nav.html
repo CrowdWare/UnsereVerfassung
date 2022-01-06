@@ -1,0 +1,18 @@
+
+<!-- NAV.HTML -->
+<nav class="navbar navbar-expand-lg navbar-light">
+	<div class="container">
+		<div class="navbar-header">
+			<div id="navbar" class="navbar-collapse collapse">
+				<ul class="navbar-nav">
+				{% for item in page.menuitems %}
+				<li class="nav-item">
+					<a class="nav-link {% if item.url == page.url %}active{% endif %}" aria-current="page" href="{{ item.url }}">{{ item.title }}</a>
+				 </li>
+				{% endfor %}
+				</ul>
+			</div>
+		</div>
+	</div>
+  </nav>
+<!-- /NAV.HTML -->
