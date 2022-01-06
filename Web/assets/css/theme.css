@@ -61,3 +61,8 @@ p
 {
   color: lightgrey;
 }
+
+.nav-link:focus, .nav-link:hover
+{
+  color: black;
+}
