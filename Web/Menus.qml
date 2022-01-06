@@ -18,5 +18,20 @@ Menus {
             url: 'abstimmen.html'
             icon: ''
         }
+        Menuitem {
+            title: 'Spenden'
+            url: 'spenden.html'
+            icon: ''
+        }
+        Menuitem {
+            title: 'Aktuelles'
+            url: 'blog.html'
+            icon: ''
+        }
+        Menuitem {
+            title: 'Kontakt'
+            url: 'kontakt.html'
+            icon: ''
+        }
     }
 }
