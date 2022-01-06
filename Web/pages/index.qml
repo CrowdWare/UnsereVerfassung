@@ -49,6 +49,8 @@ Content {
 
                 Image {
                     src: "hand.png"
+                    animation: "fadeInDown"
+                    animation_type: "Fading Entrances"
                 }
             }
         }
@@ -114,6 +116,8 @@ Content {
 
                 Image {
                     src: "unsere-verfassung-02-800.png"
+                    animation: "fadeInDown"
+                    animation_type: "Fading Entrances"
                 }
             }
         }
@@ -139,7 +143,46 @@ Content {
                 span: 8
 
                 Text {
-                    text: "&lt;p&gt;bla&lt;/p&gt;"
+                    text: "&lt;p&gt;
+	führen wir deshalb eine Volksabstimmung mit folgendem 
+	Inhalt durch: 
+&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;
+	Ich stimme zu, unser Grundgesetz nach Artikel 146 GG zur
+	Verfassung der BRD zu erheben.
+	&lt;/li&gt;
+	&lt;li&gt;
+	Ich stimme zu, das Recht auf Volksabstimmung 
+	vollumfänglich in der Verfassung zu verankern.
+	&lt;/li&gt;
+	&lt;li&gt;
+	Ich stimme zu, dass über die Inhalte der Verfassung nur per
+	Volksabstimmung entschieden werden kann.
+	&lt;/li&gt;
+&lt;/ul&gt;"
+                }
+
+                Image {
+                    src: "unsere-verfassung-abstimmen-520x200.png"
+                    animation: "fadeIn"
+                    animation_type: "Fading Entrances"
+                }
+
+                Text {
+                    text: "&lt;p&gt;
+	Dies selbst-organisiert und außerhalb der &quot;Politik&quot;.
+&lt;/p&gt;
+&lt;p&gt;
+	Da wir das Grundgesetz selbst zur Verfassung erheben,
+	zerstören wir so nicht die staatliche Ordnung, übernehmen aber
+	endlich die von Begin an zugesicherte Rolle des Souveräns im
+	Staat (&quot;Alle Staatsgewalt geht vom Volke aus&quot;) -
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;
+	und können DANACH der Politik die Richtung weisen,
+	die sie DURCH UNS erhalten soll.	
+&lt;/strong&gt;&lt;/p&gt;"
                 }
             }
 
@@ -148,8 +191,11 @@ Content {
 
                 Image {
                     src: "unsere-verfassung-03-800.png"
-                    animation: "slideInLeft"
-                    animation_type: "Sliding Entrances"
+                    alt: "Abstimmung"
+                    title: "Abstimmung"
+                    link: "abstimmung.html"
+                    animation: "bounceIn"
+                    animation_type: "Bouncing Entrances"
                 }
             }
         }
