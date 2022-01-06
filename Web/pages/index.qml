@@ -148,6 +148,8 @@ Content {
 
                 Image {
                     src: "unsere-verfassung-03-800.png"
+                    animation: "slideInLeft"
+                    animation_type: "Sliding Entrances"
                 }
             }
         }
