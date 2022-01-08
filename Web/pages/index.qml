@@ -36,7 +36,7 @@ Content {
         aber immer außer Acht gelassen werden.
       &lt;/p&gt;
       &lt;p&gt;
-        Entfesselte Geld- und Wirtschaftsmächte haben unsere Politik
+        Entfesselte Geld- und Wirtschaftsmöchte haben unsere Politik
         &quot;von oben her&quot; im Griff. Der &lt;strong&gt;Schutz der Grundrechte&lt;/strong&gt;, soziale
         Innovation und alles was &quot;von unten&quot; kommt, wird &quot;von oben her&quot;
         blockiert.

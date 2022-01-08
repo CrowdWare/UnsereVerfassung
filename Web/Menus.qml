@@ -15,7 +15,7 @@ Menus {
         }
         Menuitem {
             title: 'Abstimmen'
-            url: 'abstimmen.html'
+            url: 'abstimmung.html'
             icon: ''
         }
         Menuitem {
@@ -25,7 +25,7 @@ Menus {
         }
         Menuitem {
             title: 'Aktuelles'
-            url: 'blog.html'
+            url: 'aktuelles.html'
             icon: ''
         }
         Menuitem {
