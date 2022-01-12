@@ -4,7 +4,8 @@ Site {
    title: 'UnsereVerfassung'
    theme: 'default'
    description: 'Todo'
-   copyright: '(C) 2022, CrowdWare '
+   copyright: '© Unsere
+Verfassung e.V.'
    keywords: ''
    author: 'Olaf Japp'
    logo: ''

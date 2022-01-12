@@ -2,7 +2,7 @@ import FlatSiteBuilder 2.0
 import TextEditor 1.0
 
 Content {
-    title: "Aktuelles"
+    title: "Abstimmen"
     menu: "default"
     author: "Olaf Japp"
     layout: "default"
@@ -16,7 +16,7 @@ Content {
                 span: 12
 
                 Text {
-                    text: "&lt;h1 class=&quot;mt-5&quot;&gt;Aktuelles&lt;/h1&gt;"
+                    text: "&lt;h1 class=&quot;mt-5&quot;&gt;Abstimmen&lt;/h1&gt; "
                 }
             }
         }

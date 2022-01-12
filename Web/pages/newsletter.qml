@@ -2,11 +2,11 @@ import FlatSiteBuilder 2.0
 import TextEditor 1.0
 
 Content {
-    title: "Abstimmung"
+    title: "Newsletter"
     menu: "default"
     author: "Olaf Japp"
     layout: "default"
-    date: "2022-01-08"
+    date: "2022-01-12"
 
     Section {
 
@@ -16,7 +16,7 @@ Content {
                 span: 12
 
                 Text {
-                    text: "&lt;h1&gt;Abstimmen&lt;/h1&gt; "
+                    text: "&lt;h1 class=&quot;mt-5&quot;&gt;Newsletter&lt;/h1&gt;"
                 }
             }
         }

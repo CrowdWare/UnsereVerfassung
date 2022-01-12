@@ -16,7 +16,7 @@ Content {
                 span: 12
 
                 Text {
-                    text: "&lt;h1&gt;Projekt&lt;/h1&gt;"
+                    text: "&lt;h1 class=&quot;mt-5&quot;&gt;Projekt&lt;/h1&gt;"
                 }
             }
         }

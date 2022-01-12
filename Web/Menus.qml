@@ -4,23 +4,38 @@ Menus {
     Menu {
         name: 'default'
         Menuitem {
-            title: 'Idee'
+            title: 'Die Idee'
             url: 'index.html'
             icon: ''
         }
         Menuitem {
-            title: 'Projekt'
+            title: 'Fragen?'
+            url: 'fragen.html'
+            icon: ''
+        }
+        Menuitem {
+            title: 'Das Projekt'
             url: 'projekt.html'
             icon: ''
         }
         Menuitem {
-            title: 'Abstimmen'
-            url: 'abstimmung.html'
+            title: 'ABSTIMMEN'
+            url: 'abstimmen.html'
             icon: ''
         }
         Menuitem {
-            title: 'Spenden'
+            title: 'ERGEBNIS'
+            url: 'ergebnis.html'
+            icon: ''
+        }
+        Menuitem {
+            title: 'SPENDEN'
             url: 'spenden.html'
+            icon: ''
+        }
+        Menuitem {
+            title: 'Wie weiter?'
+            url: 'weiter.html'
             icon: ''
         }
         Menuitem {
@@ -28,9 +43,9 @@ Menus {
             url: 'aktuelles.html'
             icon: ''
         }
-        Menuitem {
-            title: 'Kontakt'
-            url: 'kontakt.html'
+         Menuitem {
+            title: 'Wir'
+            url: 'wir.html'
             icon: ''
         }
     }

@@ -17,6 +17,22 @@ Content {
                 span: 12
 
                 Text {
+                    text: "&lt;nav class=&quot;mt-2&quot; style=&quot;--bs-breadcrumb-divider: &#x27;&gt;&#x27;;&quot; aria-label=&quot;breadcrumb&quot;&gt;
+  &lt;ol class=&quot;breadcrumb&quot;&gt;
+	&lt;li class=&quot;breadcrumb-item active&quot; aria-current=&quot;page&quot;&gt;Idee&lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/nav&gt;"
+                    adminlabel: "breadcrumb"
+                }
+            }
+        }
+
+        Row {
+
+            Column {
+                span: 12
+
+                Text {
                     text: "&lt;h1 class=&quot;mt-5&quot;&gt;Worum es geht ...&lt;/h1&gt;"
                     adminlabel: "Worum es geht"
                 }
@@ -49,6 +65,7 @@ Content {
 
                 Image {
                     src: "hand.png"
+                    adminlabel: "Schutz"
                     animation: "fadeInDown"
                     animation_type: "Fading Entrances"
                 }
@@ -85,7 +102,7 @@ Content {
 	&quot;Dieses Grundgesetz...verliert seine Gültigkeit an dem Tage, 
 	an dem eine Verfassung in Kraft tritt, die vom deutschen 
 	Volke in freier Entscheidung beschlossen worden ist.&quot;&lt;/br&gt;
-	(Grundgesetz, Artikel 146)
+	(Grundgesetz, &lt;a target=&quot;_blank&quot; href=&quot;https://dejure.org/gesetze/GG/146.html&quot;&gt;Artikel 146&lt;/a&gt;)
 &lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;
@@ -116,6 +133,7 @@ Content {
 
                 Image {
                     src: "unsere-verfassung-02-800.png"
+                    adminlabel: "Mitbestimmung"
                     animation: "fadeInDown"
                     animation_type: "Fading Entrances"
                 }
@@ -191,11 +209,31 @@ Content {
 
                 Image {
                     src: "unsere-verfassung-03-800.png"
-                    alt: "Abstimmung"
-                    title: "Abstimmung"
-                    link: "abstimmung.html"
+                    alt: "Abstimmen"
+                    title: "Abstimmen"
+                    link: "abstimmen.html"
+                    adminlabel: "Abstimmen"
                     animation: "bounceIn"
                     animation_type: "Bouncing Entrances"
+                }
+            }
+        }
+    }
+
+    Section {
+
+        Row {
+
+            Column {
+                span: 12
+
+                Text {
+                    text: "&lt;h3 class=&quot;mt-5&quot;&gt;Sind noch Fragen offen?&lt;/h3&gt;
+&lt;ul&gt;
+	&lt;li&gt;Fragen zum Thema Volksabstimmung und Verfassung, werden &lt;a href=&quot;fragen.html&quot;&gt;hier&lt;/a&gt; behandelt.&lt;/li&gt;
+	&lt;li&gt;Fragen zum &quot;Was&quot;, &quot;Warum&quot; und &quot;Wie&quot; des hier vorliegenden Abstimmungsprozesses werden &lt;a href=&quot;projekt.html&quot;&gt;hier&lt;/a&gt; behandelt.&lt;/li&gt;
+&lt;/ul&gt;"
+                    adminlabel: "Sind noch Fragen offen?"
                 }
             }
         }
