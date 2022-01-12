@@ -21,7 +21,8 @@ Content {
   &lt;ol class=&quot;breadcrumb&quot;&gt;
 	&lt;li class=&quot;breadcrumb-item active&quot; aria-current=&quot;page&quot;&gt;Idee&lt;/li&gt;
   &lt;/ol&gt;
-&lt;/nav&gt;"
+&lt;/nav&gt;
+"
                     adminlabel: "breadcrumb"
                 }
             }
