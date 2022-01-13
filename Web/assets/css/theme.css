@@ -26,6 +26,11 @@ p, li
   font-size: 21px;
 }
 
+.breadcrumb-item
+{
+  font-size: 17px;
+}
+
 /* THIS HAS BEEN CHANGED IN BOOTSTRAP 5 TO .img-fluid*/
 .img-responsive {
   max-width: 100%;
