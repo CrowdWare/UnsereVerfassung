@@ -81,3 +81,20 @@ p, li
 {
   color: black;
 }
+
+.dropdown-menu
+{
+  background-color: #1da1ad;
+}
+
+.dropdown-item
+{
+  color:white;
+  background-color: #1da1ad;
+}
+
+.dropdown-item
+{
+  color:white;
+  background-color: #1da1ad;
+}
