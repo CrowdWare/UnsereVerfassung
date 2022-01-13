@@ -21,7 +21,7 @@ Content {
   &lt;ol class=&quot;breadcrumb&quot;&gt;
     &lt;li class=&quot;breadcrumb-item&quot;&gt;&lt;a href=&quot;abstimmen.html&quot;&gt;Abstimmen&lt;/a&gt;&lt;/li&gt;
 	&lt;li class=&quot;breadcrumb-item&quot;&gt;&lt;a href=&quot;ergebnis.html&quot;&gt;Ergebnis&lt;/a&gt;&lt;/li&gt;
-	&lt;li class=&quot;breadcrumb-item&quot;&gt;&lt;a href=&quot;weiter.html&quot;&gt;Wie Weiter?&lt;/a&gt;&lt;/li&gt;
+	&lt;li class=&quot;breadcrumb-item&quot;&gt;&lt;a href=&quot;weiter.html&quot;&gt;Weiter&lt;/a&gt;&lt;/li&gt;
     &lt;li class=&quot;breadcrumb-item active&quot; aria-current=&quot;page&quot;&gt;Helfen&lt;/li&gt;
   &lt;/ol&gt;
 &lt;/nav&gt;"
