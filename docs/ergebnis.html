@@ -20,86 +20,105 @@
     <img src="assets/images/header.png" class="img-fluid" />
     
 <!-- NAV.HTML -->
-<nav class="navbar navbar-expand-lg navbar-light">
-	<div class="container">
-	<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+<nav class="navbar navbar-expand-lg navbar-dark">
+	<div class="container-fluid">
+		<span class="navbar-brand mb-0 h1">Abstimmen</span>
+		<!--a class="navbar-brand" href="#">Abstimmen</a-->
+		<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
 		<span class="navbar-toggler-icon"></span>
-	  </button>
-		<div class="navbar-header">
+	  	</button>
+		<div class="collapse navbar-collapse"></div>
 			<div id="navbar" class="navbar-collapse collapse">
 				<ul class="navbar-nav">
 				
-				<li class="nav-item">
-					<a class="nav-link " aria-current="page" href="index.html">Die Idee</a>
-				 </li>
 				
-				<li class="nav-item">
-					<a class="nav-link " aria-current="page" href="fragen.html">Fragen?</a>
-				 </li>
+				<li class="nav-item dropdown">
+					<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+						Unsere Verfassung
+					  </a>
+					  <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+						
+						<li>
+							<a class="dropdown-item" href="index.html"> Idee</a>
+						</li>
+						
+						<li>
+							<a class="dropdown-item" href="projekt.html"> Projekt</a>
+						</li>
+						
+						<li>
+							<a class="dropdown-item" href="videos.html"> Videos</a>
+						</li>
+						
+						<li>
+							<a class="dropdown-item" href="fragen.html"> Fragen</a>
+						</li>
+						
+					</ul>
+				</li>
 				
-				<li class="nav-item">
-					<a class="nav-link " aria-current="page" href="projekt.html">Das Projekt</a>
-				 </li>
 				
-				<li class="nav-item">
-					<a class="nav-link " aria-current="page" href="abstimmen.html">ABSTIMMEN</a>
-				 </li>
 				
-				<li class="nav-item">
-					<a class="nav-link active" aria-current="page" href="ergebnis.html">ERGEBNIS</a>
-				 </li>
+				<li class="nav-item dropdown">
+					<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+						ABSTIMMEN
+					  </a>
+					  <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+						
+						<li>
+							<a class="dropdown-item" href="abstimmen.html"> Abstimmen</a>
+						</li>
+						
+						<li>
+							<a class="dropdown-item" href="ergebnis.html"> Ergebnis</a>
+						</li>
+						
+						<li>
+							<a class="dropdown-item" href="weiter.html"> Wie weiter?</a>
+						</li>
+						
+						<li>
+							<a class="dropdown-item" href="helfen.html"> Helfen</a>
+						</li>
+						
+					</ul>
+				</li>
 				
-				<li class="nav-item">
-					<a class="nav-link " aria-current="page" href="spenden.html">SPENDEN</a>
-				 </li>
 				
-				<li class="nav-item">
-					<a class="nav-link " aria-current="page" href="weiter.html">Wie weiter?</a>
-				 </li>
 				
 				<li class="nav-item">
 					<a class="nav-link " aria-current="page" href="aktuelles.html">Aktuelles</a>
 				 </li>
 				
+				
+				
 				<li class="nav-item">
 					<a class="nav-link " aria-current="page" href="wir.html">Wir</a>
 				 </li>
+				
 				
 				</ul>
 			</div>
 		</div>
 	</div>
   </nav>
-
-
-  <!--nav class="navbar navbar-expand-lg navbar-light bg-light">
-	<div class="container-fluid">
-	  <a class="navbar-brand" href="#">Navbar</a>
-	  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-		<span class="navbar-toggler-icon"></span>
-	  </button>
-	  <div class="collapse navbar-collapse" id="navbarNav">
-		<ul class="navbar-nav">
-		  <li class="nav-item">
-			<a class="nav-link active" aria-current="page" href="#">Home</a>
-		  </li>
-		  <li class="nav-item">
-			<a class="nav-link" href="#">Features</a>
-		  </li>
-		  <li class="nav-item">
-			<a class="nav-link" href="#">Pricing</a>
-		  </li>
-		  <li class="nav-item">
-			<a class="nav-link disabled">Disabled</a>
-		  </li>
-		</ul>
-	  </div>
-	</div>
-  </nav-->
 <!-- /NAV.HTML -->
     
 <!-- CONTENT -->
 	  <section class="container">
+<div class="row">
+<div class="col-md-12">
+<!-- how to change a breadcrumb into a menubar ;-) -->
+<nav class="mt-2" style="--bs-breadcrumb-divider: ' - ';" aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="abstimmen.html">Abstimmen</a></li>
+	<li class="breadcrumb-item active" aria-current="page">Ergebnis</li>
+	<li class="breadcrumb-item"><a href="weiter.html">Wie Weiter?</a></li>
+    <li class="breadcrumb-item"><a href="helfen.html">Helfen</a></li>
+  </ol>
+</nav>
+</div>
+</div>
 <div class="row">
 <div class="col-md-12">
 <h1 class="mt-5">Ergebnis</h1>

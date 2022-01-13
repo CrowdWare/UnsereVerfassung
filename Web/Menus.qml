@@ -4,46 +4,61 @@ Menus {
     Menu {
         name: 'default'
         Menuitem {
-            title: 'Die Idee'
-            url: 'index.html'
+            title: 'Unsere Verfassung'
+            url: '#'
             icon: ''
-        }
-        Menuitem {
-            title: 'Fragen?'
-            url: 'fragen.html'
-            icon: ''
-        }
-        Menuitem {
-            title: 'Das Projekt'
-            url: 'projekt.html'
-            icon: ''
+            Menuitem {
+                title: 'Idee'
+                url: 'index.html'
+                icon: ''
+            }
+            Menuitem {
+                title: 'Projekt'
+                url: 'projekt.html'
+                icon: ''
+            }
+            Menuitem {
+                title: 'Videos'
+                url: 'videos.html'
+                icon: ''
+            }
+            Menuitem {
+                title: 'Fragen'
+                url: 'fragen.html'
+                icon: ''
+            }
         }
         Menuitem {
             title: 'ABSTIMMEN'
-            url: 'abstimmen.html'
+            url: '#'
             icon: ''
-        }
-        Menuitem {
-            title: 'ERGEBNIS'
-            url: 'ergebnis.html'
-            icon: ''
-        }
-        Menuitem {
-            title: 'SPENDEN'
-            url: 'spenden.html'
-            icon: ''
-        }
-        Menuitem {
-            title: 'Wie weiter?'
-            url: 'weiter.html'
-            icon: ''
+            Menuitem {
+                title: 'Abstimmen'
+                url: 'abstimmen.html'
+                icon: ''
+            }
+            Menuitem {
+                title: 'Ergebnis'
+                url: 'ergebnis.html'
+                icon: ''
+            }
+            Menuitem {
+                title: 'Wie weiter?'
+                url: 'weiter.html'
+                icon: ''
+            }
+            Menuitem {
+                title: 'Helfen'
+                url: 'helfen.html'
+                icon: ''
+            }
         }
         Menuitem {
             title: 'Aktuelles'
             url: 'aktuelles.html'
             icon: ''
         }
-         Menuitem {
+        Menuitem {
             title: 'Wir'
             url: 'wir.html'
             icon: ''

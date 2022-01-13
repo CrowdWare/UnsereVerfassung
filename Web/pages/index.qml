@@ -17,12 +17,15 @@ Content {
                 span: 12
 
                 Text {
-                    text: "&lt;nav class=&quot;mt-2&quot; style=&quot;--bs-breadcrumb-divider: &#x27;&gt;&#x27;;&quot; aria-label=&quot;breadcrumb&quot;&gt;
+                    text: "&lt;!-- how to change a breadcrumb into a menubar ;-) --&gt;
+&lt;nav class=&quot;mt-2&quot; style=&quot;--bs-breadcrumb-divider: &#x27; - &#x27;;&quot; aria-label=&quot;breadcrumb&quot;&gt;
   &lt;ol class=&quot;breadcrumb&quot;&gt;
-	&lt;li class=&quot;breadcrumb-item active&quot; aria-current=&quot;page&quot;&gt;Idee&lt;/li&gt;
+    &lt;li class=&quot;breadcrumb-item active&quot; aria-current=&quot;page&quot;&gt;Idee&lt;/li&gt;
+	&lt;li class=&quot;breadcrumb-item&quot;&gt;&lt;a href=&quot;projekt.html&quot;&gt;Projekt&lt;/a&gt;&lt;/li&gt;
+	&lt;li class=&quot;breadcrumb-item&quot;&gt;&lt;a href=&quot;videos.html&quot;&gt;Videos&lt;/a&gt;&lt;/li&gt;
+    &lt;li class=&quot;breadcrumb-item&quot;&gt;&lt;a href=&quot;fragen.html&quot;&gt;Fragen&lt;/a&gt;&lt;/li&gt;
   &lt;/ol&gt;
-&lt;/nav&gt;
-"
+&lt;/nav&gt;"
                     adminlabel: "breadcrumb"
                 }
             }
