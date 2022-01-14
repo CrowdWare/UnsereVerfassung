@@ -12,13 +12,32 @@ h1, h2, h3, h4, h5, h6
 
 a
 {
-  color: #f000f0;
+  color: #d8bc5a;
   text-decoration: none;
 }
 
 h1
 {
   font-size: 49px;
+}
+
+ul
+{
+  list-style: none;
+}
+
+li::before 
+{
+  content: "•"; 
+  color: #1da1ad;
+  display: inline-block; 
+  width: 1em;
+  margin-left: -1em
+}
+
+.breadcrumb-item::before
+{
+  content: "";
 }
 
 p, li

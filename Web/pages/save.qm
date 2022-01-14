@@ -111,8 +111,8 @@ Content {
                 span: 4
 
                 Text {
-                    text: "&lt;p class=&quot;border border-3 border-primary p-3&quot;&gt;
-	&lt;strong&gt;Präambel:&lt;/strong&gt;&lt;/br&gt;&lt;/br&gt;
+                    text: "&lt;p class=&quot;border border-3 border-primary p-3&quot;&gt;"
+	Präambel:&lt;/br&gt;&lt;/br&gt;
 
 	Wir als oberster Souverän des Staates, erheben 
 	Kraft dieser Volksabstimmung das Grundgesetz der 
@@ -148,7 +148,6 @@ Content {
 &lt;div align=center&gt;
 	&lt;p&gt;□ Ja - □ Nein&lt;/p&gt;
 &lt;/dic&gt;"
-                    adminlabel: "Abstimmungsfragen"
                 }
             }
 
@@ -237,149 +236,9 @@ Content {
         Row {
 
             Column {
-                span: 6
-
-                Text {
-                    text: "&lt;p&gt;
-	Wir sehen es nicht als unsere Aufgabe an, über die 
-	drei gestellten Abstimmungsfragen hinaus irgendetwas 
-	Weiteres festzulegen. Als Souverän soll das Volk in 
-	allem selbst entscheiden.&lt;/br&gt;&lt;/br&gt;
-
-	Deswegen haben wir den jetzt eingesetzten Verfassungstext 
-	und das Volksabstimmungs-Durchführungsgesetz mit dem 
-	Vorbehalt versehen, dass sie nur ein Provisorium sind, 
-	dass sie nur so lange gelten (dürfen), bis ein freier 
-	Bürgerrat (eventuell nach dem Modell von &quot;Mehr 
-	Demokratie e.V.&quot;) oder besser: eine in der Form 
-	des freien Bürgerrates einberufene &quot;verfassungs-klärende 
-	Versammlung&quot; darüber entscheidet.&lt;/br&gt;&lt;/br&gt;
-
-	Damit kann das provisorisch Vorgegebene nach der 
-	Abstimmung frei verhandelt, das Grundgesetz (dann: 
-	die &quot;Verfassung&quot;) von historischen Schlacken befreit 
-	und seinem innersten Impuls entsprechend weiter 
-	ausgestaltet werden.
-&lt;/p&gt;"
-                    adminlabel: "Wir sehen es nicht als unsere Aufgabe"
-                }
-            }
-
-            Column {
-                span: 6
-
-                Text {
-                    text: "&lt;div class=&quot;border border-3 border-primary p-3&quot;&gt;
-&lt;p&gt;
-	&lt;strong&gt;Frage zum weiteren Vorgehen&lt;/strong&gt; (optional)&lt;/br&gt;&lt;/br&gt;
-	Zur Lösung der dringlichsten Fragen, die mit dem 
-	Grundgesetz und seinen Übergang zur Verfassung 
-	zusammenhängen, soll nach der Abstimmung ein freier 
-	Bürgerrat 1 einberufen werden, der als Verfassungs-KLÄRENDE 
-	Versammlung den Text der dann neuen Verfassung
-&lt;/p&gt;
-&lt;ul&gt;
-	&lt;li&gt;von überholten und unpassenden Inhalten bereinigt&lt;/li&gt;
-	&lt;li&gt;für aktuelle und künftige Herausforderungen weiterentwickelt&lt;/li&gt;
-	&lt;li&gt;und dem Volk zur Abstimmung vorlegt&lt;/li&gt;
-&lt;/p&gt;
-&lt;p align=center&gt;
-	□  Ja, ich stimme zu 
-&lt;/p&gt;
-&lt;/div&gt;"
-                    adminlabel: "Frage zum weiteren Vorgehen"
-                }
-            }
-        }
-
-        Row {
-
-            Column {
                 span: 12
 
                 Text {
-                    text: "&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;
-	c) Auch die Frage nach der Einberufung einer 
-	&quot;verfassungs-klärenden Versammlung&quot; ist in der von 
-	uns online gestellten Abstimmung vorgelegt.&lt;/br&gt;&lt;/br&gt;
- 
-	Der Zeitraum der Abstimmung ist &quot;offen&quot;, d.h., wir 
-	haben gewonnen, wenn für das Anliegen genügend 
-	Stimmen zusammen gekommen sind.&lt;/br&gt;&lt;/br&gt;
- 
-	Die notwendigen Änderungen im Verfassungstext und 
-	das Volksabstimmungs-Durchführungsgesetz haben wir 
-	von &quot;Mehr Demokratie e.V.&quot; übernommen, so dass in 
-	ihnen höchste Kompetenz und Expertise waltet.&lt;/br&gt;&lt;/br&gt;
-
- 	d) Der Weg, den wir gehen, ist zunächst die Online-Abstimmung. 
-	Selbstverständlich wird sich das politische Personal 
-	der Bundesrepublik dagegen verwehren, weil Online-Abstimmungen, 
-	bösen Willen vorausgesetzt, immer irgendwie manipulierbar sind.&lt;/br&gt;&lt;/br&gt;
-
- 	Wir rechnen mit diesem Einwand!&lt;/br&gt;&lt;/br&gt;
-
- 	Wenn wir genügend Stimmen gesammelt haben, fordern 
-	wir die Behörden auf, die gesamte Infrastruktur: 
-	Wahlräume, Wahlzettel, Briefabstimmungs-Unterlagen, 
-	Wahlhelfer – d.h. alles was für eine analoge 
-	Abstimmung nach dem Muster der Bundestagswahlen 
-	benötigt ist, zur Verfügung zu stellen, damit die 
-	Abstimmung dann auch analog durchzuführen ist.&lt;/br&gt;
-	S. &lt;a href=&quot;weiter.html&quot;&gt;Wie Weiter&lt;/a&gt;&lt;/br&gt;
-	und &lt;a href=&quot;hinweise.html&quot;&gt;Hinweise&lt;/a&gt;&lt;/br&gt;&lt;/br&gt;
- 
-	Als verfassungsgebende Gewalt hat das Volk dann 
-	genügend gezeigt, dass es die analoge Abstimmung 
-	durchführen will. Die verfasste Gewalt hat dem zu 
-	folgen.
-&lt;/p&gt;"
-                    adminlabel: "c) Auch die Frage nach..."
-                }
-            }
-        }
-
-        Row {
-
-            Column {
-                span: 12
-
-                Text {
-                    text: "&lt;h2&gt;4. Fazit&lt;/h2&gt;
-&lt;p&gt;
-	Wir haben damit sämtliche Mittel zur Verfügung 
-	gestellt, das Grundgesetz zur Verfassung zu erheben 
-	und diese danach im Sinne ihrer Veranlagung zu 
-	&quot;klären&quot; und weiter auszubilden.&lt;/br&gt;&lt;/br&gt;
-
-	Diese Mittel müssen nur ergriffen werden!
-&lt;/p&gt;"
-                    adminlabel: "Fazit"
-                }
-            }
-        }
-
-        Row {
-
-            Column {
-                span: 12
-
-                Text {
-                    text: "&lt;h2&gt;5. Hinweise&lt;/h2&gt;
-&lt;p&gt;
- 	Wer wir sind findet man unter:&lt;/br&gt;
-	&lt;a href=&quot;wir.html&quot;&gt;/wir.html&lt;/a&gt;&lt;/br&gt;&lt;/br&gt;
-
- 	Weitergehende Fragen und Antworten zum Projekt findet man unter:&lt;/br&gt;
-	&lt;a href=&quot;fragen.html&quot;&gt;/fragen.html&lt;/a&gt;&lt;/br&gt;&lt;/br&gt;
-
- 	Videos zum Projekt findet man unter:&lt;/br&gt;
-	&lt;a href=&quot;videos.html&quot;&gt;/videos.html&lt;/a&gt;&lt;/br&gt;&lt;/br&gt;
-&lt;/p&gt;
-&lt;div class=&quot;text-primary&quot;&gt;&lt;strong&gt;Berlin, den 01.05.2021&lt;/strong&gt;&lt;/div&gt;
-&lt;div class=&quot;text-primary&quot;&gt;&lt;strong&gt;Unsere Verfassung e.V.&lt;/strong&gt;&lt;div&gt;"
-                    adminlabel: "Hinweise"
                 }
             }
         }
