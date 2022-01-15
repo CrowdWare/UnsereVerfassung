@@ -35,7 +35,27 @@ li::before
   margin-left: -1em
 }
 
+.question li 
+{
+  background: url('../../assets/images/frage-button-45.png') no-repeat left center;
+  padding: 5px 0px 5px 55px;
+  list-style: none;
+  margin: 0;
+  vertical-align: middle;
+  content: ""
+}
+
+.question li::before
+{
+  content: "";
+}
+
 .breadcrumb-item::before
+{
+  content: "";
+}
+
+.breadcrumb-item + .breadcrumb-item::before
 {
   content: "";
 }

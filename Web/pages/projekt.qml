@@ -98,9 +98,6 @@ Content {
 &lt;p&gt;
 	 (Nähere Ausführungen zu dieser Frage unter: 
 	&lt;a href=&quot;fragen.html&quot;&gt;fragen.html&lt;/a&gt;)&lt;/br&gt;&lt;/br&gt;
-
-	Die Fragen der durch uns jetzt durchgeführten 
-	Volksabstimmung lauten:
 &lt;/p&gt;
 "
                     adminlabel: "Für die Diener des Volkes,..."
@@ -138,7 +135,17 @@ Content {
                 span: 6
 
                 Text {
-                    text: "&lt;h2&gt;Abstimmungsfragen&lt;/h2&gt;
+                    text: "&lt;p&gt;
+	Die Fragen der durch uns jetzt durchgeführten 
+	Volksabstimmung lauten:
+&lt;/p&gt;"
+                }
+
+                Text {
+                    text: "&lt;div class=&quot;border border-3 border-primary p-3&quot;&gt;
+&lt;p&gt;
+&lt;strong&gt;Abstimmungsfragen&lt;/strong&gt;
+&lt;/p&gt;
 &lt;ul&gt;
 	&lt;li&gt;Ich stimme zu, unser Grundgesetz nach Artikel 146 GG zur Verfassung der Bundesrepublik zu erheben.&lt;/li&gt;
 	&lt;li&gt;Ich stimme zu, das Recht auf Volksabstimmung vollumfänglich in der Verfassung zu verankern.&lt;/li&gt;
@@ -147,7 +154,8 @@ Content {
 
 &lt;div align=center&gt;
 	&lt;p&gt;□ Ja - □ Nein&lt;/p&gt;
-&lt;/dic&gt;"
+&lt;/div&gt;
+&lt;/div&gt;"
                     adminlabel: "Abstimmungsfragen"
                 }
             }
@@ -327,7 +335,7 @@ Content {
 	Abstimmung nach dem Muster der Bundestagswahlen 
 	benötigt ist, zur Verfügung zu stellen, damit die 
 	Abstimmung dann auch analog durchzuführen ist.&lt;/br&gt;
-	S. &lt;a href=&quot;weiter.html&quot;&gt;Wie Weiter&lt;/a&gt;&lt;/br&gt;
+	Siehe: &lt;a href=&quot;weiter.html&quot;&gt;Wie Weiter&lt;/a&gt;&lt;/br&gt;
 	und &lt;a href=&quot;hinweise.html&quot;&gt;Hinweise&lt;/a&gt;&lt;/br&gt;&lt;/br&gt;
  
 	Als verfassungsgebende Gewalt hat das Volk dann 

@@ -36,8 +36,17 @@ Content {
                 span: 12
 
                 Text {
-                    text: "&lt;h1 class=&quot;mt-5&quot;&gt;Fragen&lt;/h1&gt;"
+                    text: "&lt;h1 class=&quot;mt-5&quot;&gt;I. Fragen zum von uns gewiesenen WEG
+    zur Einführung der Volksabstimmung:&lt;/h1&gt;"
                     adminlabel: "Fragen"
+                }
+
+                Text {
+                    text: "&lt;ul class=&quot;question&quot;&gt;
+	&lt;li&gt;&lt;a href=&quot;antwort1.html&quot;&gt;(1) Ist das Grundgesetz KEINE Verfassung?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;(2) Warum wollt Ihr die Einführung der Volksabstimmung mit der Verfassungsfrage verbinden?&lt;/li&gt;
+	&lt;li&gt;(3) Der Weg geht heute in Richtung &quot;Europa&quot;! Betreibt Ihr da nicht ein rückwärtsgewandtes nationalstaatliches Projekt?&lt;/li&gt;
+&lt;/ul&gt;"
                 }
             }
         }
