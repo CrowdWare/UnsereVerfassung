@@ -35,6 +35,11 @@ li::before
   margin-left: -1em
 }
 
+.navbar-nav li::before
+{
+  content: ""
+}
+
 .question li 
 {
   background: url('../../assets/images/frage-button-45.png') no-repeat left center;
@@ -60,7 +65,7 @@ li::before
   content: "";
 }
 
-p, li
+p
 {
   font-size: 21px;
 }
