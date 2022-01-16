@@ -36,8 +36,8 @@ Content {
                 span: 12
 
                 Text {
-                    text: "&lt;h1 class=&quot;mt-5&quot;&gt;I. Fragen zum von uns gewiesenen WEG
-    zur Einführung der Volksabstimmung:&lt;/h1&gt;"
+                    text: "&lt;h1 class=&quot;mt-5&quot;&gt;I. Fragen&lt;/h1&gt;
+&lt;p class=&quot;lead&quot;&gt;zum von uns gewiesenen WEG zur Einführung der Volksabstimmung:&lt;/p&gt;"
                     adminlabel: "Fragen"
                 }
 

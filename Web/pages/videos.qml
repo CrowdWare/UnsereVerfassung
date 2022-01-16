@@ -37,7 +37,8 @@ Content {
                 span: 12
 
                 Text {
-                    text: "&lt;h1 class=&quot;mt-5&quot;&gt;Videos zur Idee des Vereines&lt;/h1&gt;"
+                    text: "&lt;h1 class=&quot;mt-5&quot;&gt;Videos&lt;/h1&gt;
+&lt;p class=&quot;lead&quot;&gt; zur Idee des Vereines&lt;/p&gt;"
                 }
             }
         }
@@ -67,7 +68,16 @@ Content {
                 span: 6
 
                 Text {
-                    text: "&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/HlRtKsaHO1U&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt;"
+                    text: "&lt;div class=&quot;ratio ratio-16x9&quot;&gt;
+&lt;iframe 
+src=&quot;https://www.youtube.com/embed/HlRtKsaHO1U&quot; 
+title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; 
+allow=&quot;accelerometer; autoplay; clipboard-write; 
+encrypted-media; gyroscope; picture-in-picture&quot; 
+allowfullscreen&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;"
+                    adminlabel: "video"
                 }
             }
         }
@@ -97,7 +107,10 @@ Content {
                 span: 6
 
                 Text {
-                    text: "&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/rfoZlGUZBoU&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt;"
+                    text: "&lt;div class=&quot;ratio ratio-16x9&quot;&gt;
+&lt;iframe src=&quot;https://www.youtube.com/embed/rfoZlGUZBoU&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;"
+                    adminlabel: "video"
                 }
             }
         }
@@ -126,7 +139,10 @@ Content {
 
                 Text {
                     text: "&lt;p&gt;&lt;a href=&quot;https://youtu.be/hBp1TAPUYcQ&quot;&gt;Teil 1&lt;/a&gt;&lt;/p&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/hBp1TAPUYcQ&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt;"
+&lt;div class=&quot;ratio ratio-16x9&quot;&gt;
+&lt;iframe src=&quot;https://www.youtube.com/embed/hBp1TAPUYcQ&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;"
+                    adminlabel: "video"
                 }
             }
 
@@ -135,7 +151,10 @@ Content {
 
                 Text {
                     text: "&lt;p&gt;&lt;a href=&quot;https://youtu.be/zp4uBpPG9G0&quot;&gt;Teil 2&lt;/a&gt;&lt;/p&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/zp4uBpPG9G0&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt;"
+&lt;div class=&quot;ratio ratio-16x9&quot;&gt;
+&lt;iframe src=&quot;https://www.youtube.com/embed/zp4uBpPG9G0&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;"
+                    adminlabel: "video"
                 }
             }
         }
