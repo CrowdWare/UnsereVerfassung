@@ -142,3 +142,8 @@ p
   color:#FFFFFFBF;
   background-color: #1da1ad;
 }
+
+.navbar li
+{
+  line-height: 10px;
+}
