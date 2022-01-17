@@ -23,9 +23,10 @@ Content {
 	&lt;li class=&quot;breadcrumb-item&quot;&gt;&lt;a href=&quot;projekt.html&quot;&gt;Projekt&lt;/a&gt;&lt;/li&gt;
 	&lt;li class=&quot;breadcrumb-item&quot;&gt;&lt;a href=&quot;videos.html&quot;&gt;Videos&lt;/a&gt;&lt;/li&gt;
     &lt;li class=&quot;breadcrumb-item&quot;&gt;&lt;a href=&quot;fragen.html&quot;&gt;Fragen&lt;/a&gt;&lt;/li&gt;
-	&lt;li class=&quot;breadcrumb-item active&quot; aria-current=&quot;page&quot;&gt;Antwort 1&lt;/li&gt;
+	&lt;li class=&quot;breadcrumb-item active&quot; aria-current=&quot;page&quot;&gt;&gt; Antwort 1&lt;/li&gt;
   &lt;/ol&gt;
 &lt;/nav&gt;"
+                    adminlabel: "breadcrumb"
                 }
             }
         }
@@ -36,7 +37,7 @@ Content {
                 span: 12
 
                 Text {
-                    text: "&lt;h1&gt;1. Ist das Grundgesetz KEINE Verfassung?&lt;/h1&gt;
+                    text: "&lt;h1 class=&quot;mt-3&quot;&gt;1. Ist das Grundgesetz KEINE Verfassung?&lt;/h1&gt;
 &lt;p&gt;
  	Im Sinne der heute etablierten Staatsordnung, das 
 	heißt für das gesamte Personal der Bundesrepublik: 

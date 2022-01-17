@@ -37,7 +37,7 @@ Content {
                 span: 12
 
                 Text {
-                    text: "&lt;h1 class=&quot;mt-5&quot;&gt;Worum es geht ...&lt;/h1&gt;"
+                    text: "&lt;h1 class=&quot;mt-3&quot;&gt;Worum es geht ...&lt;/h1&gt;"
                     adminlabel: "Worum es geht"
                 }
             }

@@ -63,5 +63,10 @@ Menus {
             url: 'wir.html'
             icon: ''
         }
+        Menuitem {
+            title: 'Kontakt'
+            url: 'kontakt.html'
+            icon: ''
+        }
     }
 }

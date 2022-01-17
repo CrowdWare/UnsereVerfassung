@@ -36,7 +36,7 @@ Content {
                 span: 12
 
                 Text {
-                    text: "&lt;h1 class=&quot;mt-5&quot;&gt;Das Projekt&lt;/h1&gt;
+                    text: "&lt;h1 class=&quot;mt-3&quot;&gt;Das Projekt&lt;/h1&gt;
 &lt;p class=&quot;lead&quot;&gt;
 	Zur Heilung der gegenwärtigen Verfassungskrise
 &lt;p&gt;
@@ -96,8 +96,7 @@ Content {
 	beschlossen worden ist.&quot;
 &lt;/p&gt;
 &lt;p&gt;
-	 (Nähere Ausführungen zu dieser Frage unter: 
-	&lt;a href=&quot;fragen.html&quot;&gt;fragen.html&lt;/a&gt;)&lt;/br&gt;&lt;/br&gt;
+	 (Nähere Ausführungen zu dieser Frage gibt es &lt;a href=&quot;fragen.html&quot;&gt;hier&lt;/a&gt;) 
 &lt;/p&gt;
 "
                     adminlabel: "Für die Diener des Volkes,..."
@@ -172,7 +171,7 @@ Content {
 
                 Text {
                     text: "&lt;p&gt;
-	Die Abstimmung ist zu finden unter: &lt;a href=&quot;abstimmen.html&quot;&gt;https://unsere-verfassung.de&lt;/a&gt;
+	Die Abstimmung ist &lt;a href=&quot;abstimmen.html&quot;&gt;hier&lt;/a&gt; zu finden.
 &lt;/p&gt;
 
 &lt;h2&gt;2. Unterschied zu Anliegen und Wegen anderer Initianten&lt;/h2&gt;
@@ -216,8 +215,8 @@ Content {
 	sondern damit zugleich auch sowohl den neuen 
 	Verfassungstext als auch schon das Durchführungsgesetz 
 	für Volksabstimmungen auf Bundesebene zur Abstimmung 
-	gestellt,siehe &quot;Die Änderungen des Textes des 
-	Grundgesetzes im Einzelnen&quot;: &lt;a href=&quot;https://unsere-verfassung.de/Abstimmung/Apparat.htm&quot;&gt;../abstimmung/apparat.htm&lt;/a&gt;, dort Artikel 78 a
+	gestellt,siehe &quot;Die &lt;a href=&quot;https://unsere-verfassung.de/Abstimmung/Apparat.htm&quot;&gt;Änderungen&lt;/a&gt; des Textes des 
+	Grundgesetzes im Einzelnen&quot;, dort Artikel 78 a
 &lt;/p&gt;
 &lt;p&gt;
 	Damit ist, wenn wir genügend Stimmen erhalten haben, 
@@ -376,14 +375,11 @@ Content {
                 Text {
                     text: "&lt;h2&gt;5. Hinweise&lt;/h2&gt;
 &lt;p&gt;
- 	Wer wir sind findet man unter:&lt;/br&gt;
-	&lt;a href=&quot;wir.html&quot;&gt;/wir.html&lt;/a&gt;&lt;/br&gt;&lt;/br&gt;
+ 	Wer wir sind findet man &lt;a href=&quot;wir.html&quot;&gt;hier&lt;/a&gt;.&lt;/br&gt;&lt;/br&gt;
 
- 	Weitergehende Fragen und Antworten zum Projekt findet man unter:&lt;/br&gt;
-	&lt;a href=&quot;fragen.html&quot;&gt;/fragen.html&lt;/a&gt;&lt;/br&gt;&lt;/br&gt;
+ 	Weitergehende Fragen und Antworten zum Projekt findet man &lt;a href=&quot;fragen.html&quot;&gt;hier&lt;/a&gt;.&lt;/br&gt;&lt;/br&gt;
 
- 	Videos zum Projekt findet man unter:&lt;/br&gt;
-	&lt;a href=&quot;videos.html&quot;&gt;/videos.html&lt;/a&gt;&lt;/br&gt;&lt;/br&gt;
+ 	Videos zum Projekt findet man &lt;a href=&quot;videos.html&quot;&gt;hier&lt;/a&gt;.&lt;/br&gt;&lt;/br&gt;
 &lt;/p&gt;
 &lt;div class=&quot;text-primary&quot;&gt;&lt;strong&gt;Berlin, den 01.05.2021&lt;/strong&gt;&lt;/div&gt;
 &lt;div class=&quot;text-primary&quot;&gt;&lt;strong&gt;Unsere Verfassung e.V.&lt;/strong&gt;&lt;div&gt;"
