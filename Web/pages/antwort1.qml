@@ -25,7 +25,9 @@ Content {
     &lt;li class=&quot;breadcrumb-item&quot;&gt;&lt;a href=&quot;fragen.html&quot;&gt;Fragen&lt;/a&gt;&lt;/li&gt;
 	&lt;li class=&quot;breadcrumb-item active&quot; aria-current=&quot;page&quot;&gt;&gt; Antwort 1&lt;/li&gt;
   &lt;/ol&gt;
-&lt;/nav&gt;"
+&lt;/nav&gt;
+
+"
                     adminlabel: "breadcrumb"
                 }
             }
