@@ -25,10 +25,41 @@ Content {
     &lt;li class=&quot;breadcrumb-item&quot;&gt;&lt;a href=&quot;fragen.html&quot;&gt;Fragen&lt;/a&gt;&lt;/li&gt;
 	&lt;li class=&quot;breadcrumb-item active&quot; aria-current=&quot;page&quot;&gt;&gt; Antwort 1&lt;/li&gt;
   &lt;/ol&gt;
-&lt;/nav&gt;
-
-"
+&lt;/nav&gt;"
                     adminlabel: "breadcrumb"
+                }
+            }
+        }
+
+        Row {
+
+            Column {
+                span: 4
+
+                Text {
+                    text: "&lt;div width=&quot;30%&quot;&gt; 
+&lt;a class=&quot;page-link&quot; href=&quot;#&quot; aria-label=&quot;Previous&quot;&gt;
+	&lt;span aria-hidden=&quot;true&quot;&gt;&amp;laquo;&lt;/span&gt;
+&lt;/a&gt;
+&lt;/p&gt;"
+                }
+            }
+
+            Column {
+                span: 4
+
+                Text {
+                    text: "&lt;a class=&quot;page-link&quot; href=&quot;#&quot;&gt;Zurück&lt;/a&gt;"
+                }
+            }
+
+            Column {
+                span: 4
+
+                Text {
+                    text: "&lt;a class=&quot;page-link&quot; href=&quot;#&quot; aria-label=&quot;Previous&quot;&gt;
+	&lt;span aria-hidden=&quot;true&quot;&gt;&amp;raquo;&lt;/span&gt;
+&lt;/a&gt;"
                 }
             }
         }
