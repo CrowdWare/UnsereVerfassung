@@ -78,8 +78,7 @@ Content {
                 span: 6
 
                 Text {
-                    text: "&lt;h2&gt;Paypal&lt;/h2&gt;
-&lt;p&gt;
+                    text: "&lt;p&gt;
 	Du kannst aber auch via &lt;strong&gt;Paypal&lt;/strong&gt; spenden:
 &lt;/p&gt;"
                     adminlabel: "Paypal"
@@ -120,7 +119,11 @@ Content {
 	width=&quot;325&quot; 
 	scrolling=&quot;no&quot; 
 	src=&quot;https://unsere-verfassung.com/index.php/464-2/&quot; 
-	style=&quot;border: 1px solid #999999; padding-left: 4; padding-right: 4; padding-top: 1; padding-bottom: 1&quot;&gt;
+	style=&quot;border: 1px solid #999999; 
+	padding-left: 4; 
+	padding-right: 4; 
+	padding-top: 1; 
+	padding-bottom: 1&gt;
     Ihr Browser unterstützt Inlineframes nicht oder zeigt sie in der derzeitigen Konfiguration nicht an.
 &lt;/iframe&gt;"
                     adminlabel: "nl frame"

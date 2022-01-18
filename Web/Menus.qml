@@ -47,11 +47,11 @@ Menus {
                 url: 'weiter.html'
                 icon: ''
             }
-            Menuitem {
-                title: 'Helfen'
-                url: 'helfen.html'
-                icon: ''
-            }
+        }
+        Menuitem {
+            title: 'Wie helfen?'
+            url: 'helfen.html'
+            icon: ''
         }
         Menuitem {
             title: 'Aktuelles'
