@@ -28,38 +28,20 @@ Content {
 &lt;/nav&gt;"
                     adminlabel: "breadcrumb"
                 }
-            }
-        }
-
-        Row {
-
-            Column {
-                span: 4
 
                 Text {
-                    text: "&lt;div width=&quot;30%&quot;&gt; 
-&lt;a class=&quot;page-link&quot; href=&quot;#&quot; aria-label=&quot;Previous&quot;&gt;
-	&lt;span aria-hidden=&quot;true&quot;&gt;&amp;laquo;&lt;/span&gt;
-&lt;/a&gt;
-&lt;/p&gt;"
-                }
-            }
-
-            Column {
-                span: 4
-
-                Text {
-                    text: "&lt;a class=&quot;page-link&quot; href=&quot;#&quot;&gt;Zurück&lt;/a&gt;"
-                }
-            }
-
-            Column {
-                span: 4
-
-                Text {
-                    text: "&lt;a class=&quot;page-link&quot; href=&quot;#&quot; aria-label=&quot;Previous&quot;&gt;
-	&lt;span aria-hidden=&quot;true&quot;&gt;&amp;raquo;&lt;/span&gt;
-&lt;/a&gt;"
+                    text: "&lt;div class=&quot;mt-5 btn-toolbar justify-content-between&quot; role=&quot;toolbar&quot; aria-label=&quot;Toolbar with button groups&quot;&gt;
+	&lt;div class=&quot;btn-group&quot; role=&quot;group&quot; aria-label=&quot;First group&quot; style=&quot;visibility: hidden;&quot;&gt;
+    	&lt;a href=&quot;antwort1.html&quot; class=&quot;btn btn-outline-primary&quot;&gt;&amp;laquo;&lt;/a&gt;
+  	&lt;/div&gt;
+  	&lt;div class=&quot;btn-group&quot; role=&quot;group&quot; aria-label=&quot;First group&quot;&gt;
+		&lt;a href=&quot;fragen.html&quot; class=&quot;btn btn-outline-primary&quot;&gt;Zurück&lt;/a&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;btn-group&quot; role=&quot;group&quot; aria-label=&quot;First group&quot;&gt;
+		&lt;a href=&quot;antwort2.html&quot; class=&quot;btn btn-outline-primary&quot;&gt;&amp;raquo;&lt;/a&gt;
+	&lt;/div&gt;
+&lt;/div&gt;"
+                    adminlabel: "pagination"
                 }
             }
         }
