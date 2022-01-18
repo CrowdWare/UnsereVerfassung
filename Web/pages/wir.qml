@@ -39,20 +39,19 @@ Content {
                 span: 3
 
                 Text {
-                    text: "&lt;div class=&quot;card shadow-sm&quot;&gt;
-	&lt;img class=&quot;img-fluid&quot; src=&quot;assets/images/Diana.png&quot; width=&quot;217&quot; height=&quot;291&quot;&gt;
-
-    &lt;div class=&quot;card-body&quot;&gt;
-    	&lt;p class=&quot;card-text small&quot;&gt;
- 			Diana Aman&lt;/br&gt;&lt;/br&gt;
+                    text: "&lt;div class=&quot;card&quot; style=&quot;width: 100%;&quot;&gt;
+  &lt;img src=&quot;assets/images/Diana.png&quot; class=&quot;card-img-top&quot; alt=&quot;...&quot;&gt;
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;p class=&quot;card-text&quot;&gt;
+			Diana Aman&lt;/br&gt;&lt;/br&gt;
 			
 			Vorstandsmitglied&lt;/br&gt;
 			Moderation&lt;/br&gt;&lt;/br&gt;
 
 			Motto:&lt;/br&gt;
 			Schweige, bis die Taten sprechen!
-		&lt;/p&gt;
-	&lt;/div&gt;
+	&lt;/p&gt;
+  &lt;/div&gt;
 &lt;/div&gt;"
                 }
             }
@@ -61,20 +60,19 @@ Content {
                 span: 3
 
                 Text {
-                    text: "&lt;div class=&quot;card shadow-sm&quot;&gt;
-	&lt;img class=&quot;img-fluid&quot; src=&quot;assets/images/Ivo.png&quot; width=&quot;217&quot; height=&quot;291&quot;&gt;
-
-    &lt;div class=&quot;card-body&quot;&gt;
-    	&lt;p class=&quot;card-text small&quot;&gt;
- 			Ivo Zsiros&lt;/br&gt;&lt;/br&gt;
+                    text: "&lt;div class=&quot;card&quot; style=&quot;width: 100%;&quot;&gt;
+  &lt;img src=&quot;assets/images/Ivo.png&quot; class=&quot;card-img-top&quot; alt=&quot;...&quot;&gt;
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;p class=&quot;card-text&quot;&gt;
+			Ivo Zsiros&lt;/br&gt;&lt;/br&gt;
 			
 			Vorstandsmitglied&lt;/br&gt;
 			Strukturierung&lt;/br&gt;&lt;/br&gt;
 
 			Motto:&lt;/br&gt;
 			Selbst tätig sein und sich darin üben, den Anderen zu verstehen und anzuerkennen.
-		&lt;/p&gt;
-	&lt;/div&gt;
+	&lt;/p&gt;
+  &lt;/div&gt;
 &lt;/div&gt;"
                 }
             }
@@ -83,12 +81,12 @@ Content {
                 span: 3
 
                 Text {
-                    text: "&lt;div class=&quot;card shadow-sm&quot;&gt;
-	&lt;img class=&quot;img-fluid&quot; src=&quot;assets/images/Ralph.png&quot; width=&quot;217&quot; height=&quot;291&quot;&gt;
-
-    &lt;div class=&quot;card-body&quot;&gt;
-    	&lt;p class=&quot;card-text small&quot;&gt;
- 			Ralph Boes&lt;/br&gt;&lt;/br&gt;
+                    text: "
+&lt;div class=&quot;card&quot; style=&quot;width: 100%;&quot;&gt;
+  &lt;img src=&quot;assets/images/Ralph.png&quot; class=&quot;card-img-top&quot; alt=&quot;...&quot;&gt;
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;p class=&quot;card-text&quot;&gt;
+			Ralph Boes&lt;/br&gt;&lt;/br&gt;
 			
 			Vorstandsmitglied&lt;/br&gt;
 			Vermittlung&lt;/br&gt;&lt;/br&gt;
@@ -96,8 +94,8 @@ Content {
 			Motto:&lt;/br&gt;
 			Dem Selbst-verständlichen
 			zum Worte zu verhelfen und zur Tat, das ist das größte Geheimnis.
-		&lt;/p&gt;
-	&lt;/div&gt;
+	&lt;/p&gt;
+  &lt;/div&gt;
 &lt;/div&gt;"
                 }
             }
@@ -106,12 +104,12 @@ Content {
                 span: 3
 
                 Text {
-                    text: "&lt;div class=&quot;card shadow-sm&quot;&gt;
-	&lt;img class=&quot;img-fluid&quot; src=&quot;assets/images/Steffi.png&quot; width=&quot;217&quot; height=&quot;291&quot;&gt;
-
-    &lt;div class=&quot;card-body&quot;&gt;
-    	&lt;p class=&quot;card-text small&quot;&gt;
- 			Steffi Burck&lt;/br&gt;&lt;/br&gt;
+                    text: "
+&lt;div class=&quot;card&quot; style=&quot;width: 100%;&quot;&gt;
+  &lt;img src=&quot;assets/images/Steffi.png&quot; class=&quot;card-img-top&quot; alt=&quot;...&quot;&gt;
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;p class=&quot;card-text&quot;&gt;
+			Steffi Burck&lt;/br&gt;&lt;/br&gt;
 			
 			Vorstandsmitglied&lt;/br&gt;
 			Organisation&lt;/br&gt;&lt;/br&gt;
@@ -121,8 +119,8 @@ Content {
 			aufstehen -&lt;/br&gt;
 			Krone richten -&lt;/br&gt;
 			weitergehen.
-		&lt;/p&gt;
-	&lt;/div&gt;
+	&lt;/p&gt;
+  &lt;/div&gt;
 &lt;/div&gt;"
                 }
             }
