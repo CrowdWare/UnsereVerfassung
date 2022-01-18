@@ -59,14 +59,30 @@ Menus {
             icon: ''
         }
         Menuitem {
-            title: 'Wir'
-            url: 'wir.html'
+            title: 'Wer wir sind'
+            url: '#'
             icon: ''
-        }
-        Menuitem {
-            title: 'Kontakt'
-            url: 'kontakt.html'
-            icon: ''
+            Menuitem {
+                title: 'Wir'
+                url: 'wir.html'
+                icon: ''
+            }
+            Menuitem {
+                title: 'Referenten'
+                url: 'referenten.html'
+                icon: ''
+            }
+            Menuitem {
+                title: 'Spenden'
+                url: 'spenden.html'
+                icon: ''
+            }
+            
+            Menuitem {
+                title: 'Kontakt'
+                url: 'kontakt.html'
+                icon: ''
+            }
         }
     }
 }
