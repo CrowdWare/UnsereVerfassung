@@ -150,6 +150,7 @@ Content {
 
                 Image {
                     src: "referenten-heinz.png"
+                    link: "heinz.html"
                 }
             }
 
@@ -158,6 +159,7 @@ Content {
 
                 Image {
                     src: "referenten-ivo.png"
+                    link: "ivo.html"
                 }
             }
 
@@ -166,6 +168,7 @@ Content {
 
                 Image {
                     src: "referenten-ralph.png"
+                    link: "ralph.html"
                 }
             }
         }

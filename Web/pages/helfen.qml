@@ -65,7 +65,7 @@ Content {
 	unterstütze uns mit einer Spende.
 &lt;/p&gt;
 &lt;p&gt;
-	Zu den &lt;strong&gt;Kontodaten&lt;/strong&gt; geht es &lt;a href=&quot;spenden.html&quot;&gt;hier&lt;/a&gt;.
+	&lt;a href=&quot;spenden.html&quot;&gt;Zu den &lt;strong&gt;Kontodaten&lt;/strong&gt; geht es hier.&lt;/a&gt;
 &lt;/p&gt;"
                     adminlabel: "Spenden"
                 }
