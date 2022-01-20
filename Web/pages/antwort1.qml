@@ -209,14 +209,29 @@ Content {
 	auch durch etwas anderes ersetzt werden, ohne dass 
 	es sich da wehren kann.
 &lt;/p&gt;
-&lt;blockquote&gt;
- &quot;Eine Verfassung ist nichts anderes als die in Rechtsform gebrachte Selbstverwirklichung der Freiheit eines Volkes. Darin liegt ihr Pathos, und dafür sind die Völker auf die Barrikaden gegangen. Dieser Begriff einer Verfassung gilt in einer Welt, die demokratisch sein will, die also das Pathos der Demokratie als ihr Lebensgesetz anerkennen will, unabdingbar.&quot;
 
-Ordnungsgesetzen gegenüber, die oktroyiert oder &#x27;gegeben&#x27; sind, &quot;wird man aber nicht von Verfassungen sprechen, wenn Worte ihren Sinn behalten sollen; denn es fehlt diesen Gebilden der Charakter des keinem fremden Willen unterworfenen Selbstbestimmtseins.&quot;
-	&lt;a href=&quot;http://artikel20gg.de/Texte/Carlo-Schmid-Grundsatzrede-zum-Grundgesetz.htm#1o&quot;&gt; Carlo Schmid in seiner Grundsatzrede zum Grundgesetz am 8. September 1948&lt;/a&gt;
-&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&quot;Auch der Beitritt aller deutschen Gebiete wird dieses Grundgesetz nicht zu einer gesamt deutschen Verfassung machen können. Diese wird erst dann geben, wenn das deutsche Volk Inhalt und Form seines politischen Lebens in freier Entschließung bestimmt haben wird.&quot;
+ 	Eine Verfassung ist nichts anderes als die in Rechtsform 
+	gebrachte Selbstverwirklichung der Freiheit eines Volkes. 
+	Darin liegt ihr Pathos, und dafür sind die Völker auf die 
+	Barrikaden gegangen. Dieser Begriff einer Verfassung gilt 
+	in einer Welt, die demokratisch sein will, die also das 
+	Pathos der Demokratie als ihr Lebensgesetz anerkennen will,
+	unabdingbar.&lt;/br&gt;&lt;/br&gt;
+
+	Ordnungsgesetzen gegenüber, die oktroyiert oder &#x27;gegeben&#x27; 
+	sind, &quot;wird man aber nicht von Verfassungen sprechen, wenn 
+	Worte ihren Sinn behalten sollen; denn es fehlt diesen 
+	Gebilden der Charakter des keinem fremden Willen unterworfenen 
+	Selbstbestimmtseins.&quot;&lt;/br&gt;
+	&lt;a href=&quot;http://artikel20gg.de/Texte/Carlo-Schmid-Grundsatzrede-zum-Grundgesetz.htm#1o&quot;&gt; Carlo Schmid in seiner Grundsatzrede zum Grundgesetz am 8. September 1948&lt;/a&gt;
+	&lt;/blockquote&gt;
+&lt;blockquote&gt;
+	&quot;Auch der Beitritt aller deutschen Gebiete wird dieses 
+	Grundgesetz nicht zu einer gesamt deutschen Verfassung 
+	machen können. Diese wird erst dann geben, wenn das 
+	deutsche Volk Inhalt und Form seines politischen Lebens in 
+	freier Entschließung bestimmt haben wird.&quot;&lt;/br&gt;
 	&lt;a href=&quot;https://www.spiegel.de/politik/das-volk-abgewickelt-a-bd2db3e9-0002-0001-0000-000013682876?context=issue&quot;&gt;Carlo Schmid (nach Mahrenholz)&lt;/a&gt;
 &lt;/blockquote&gt;
 
