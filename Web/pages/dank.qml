@@ -103,7 +103,7 @@ registriert!&lt;/strong&gt;
                 span: 6
 
                 Text {
-                    text: "&lt;div class=&quot;ratio&quot; style=&quot;--bs-aspect-ratio: 106%;&quot;&gt;
+                    text: "&lt;div class=&quot;ratio&quot; style=&quot;--bs-aspect-ratio: 120%;&quot;&gt;
 &lt;iframe 
 	name=&quot;I2&quot; 
 	src=&quot;https://unsere-verfassung.com/index.php/stat/&quot;  
