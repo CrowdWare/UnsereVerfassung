@@ -50,7 +50,8 @@ Content {
                 span: 12
 
                 Text {
-                    text: "&lt;iframe 
+                    text: "&lt;div class=&quot;ratio&quot; style=&quot;--bs-aspect-ratio: 106%;&quot;&gt;
+&lt;iframe 
 	name=&quot;I2&quot; 
 	src=&quot;https://unsere-verfassung.com/index.php/stat/&quot; 
 	height=&quot;530&quot; 
@@ -58,7 +59,8 @@ Content {
 	scrolling=&quot;no&quot; 
 	style=&quot;border: 1px solid #C0C0C0&quot;&gt;
         Ihr Browser unterstützt Inlineframes nicht oder zeigt sie in der derzeitigen Konfiguration nicht an.
-&lt;/iframe&gt;"
+&lt;/iframe&gt;
+&lt;/div&gt;"
                     adminlabel: "iframe"
                 }
             }
