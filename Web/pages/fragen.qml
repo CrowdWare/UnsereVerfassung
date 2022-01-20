@@ -51,54 +51,5 @@ Content {
                 }
             }
         }
-
-        Row {
-
-            Column {
-                span: 12
-
-                Text {
-                    text: "&lt;div class=&quot;accordion&quot; id=&quot;accordionExample&quot;&gt;
-  &lt;div class=&quot;accordion-item&quot;&gt;
-    &lt;h2 class=&quot;accordion-header&quot; id=&quot;headingOne&quot;&gt;
-      &lt;button class=&quot;accordion-button&quot; type=&quot;button&quot; data-bs-toggle=&quot;collapse&quot; data-bs-target=&quot;#collapseOne&quot; aria-expanded=&quot;true&quot; aria-controls=&quot;collapseOne&quot;&gt;
-        &lt;img class=&quot;me-3&quot; src=&quot;assets/images/frage-button-45.png&quot;&gt;1) Ist das Grundgesetz KEINE Verfassung?
-      &lt;/button&gt;
-    &lt;/h2&gt;
-    &lt;div id=&quot;collapseOne&quot; class=&quot;accordion-collapse collapse show&quot; aria-labelledby=&quot;headingOne&quot; data-bs-parent=&quot;#accordionExample&quot;&gt;
-      &lt;div class=&quot;accordion-body&quot;&gt;
-        &lt;strong&gt;This is the first item&#x27;s accordion body.&lt;/strong&gt; It is shown by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It&#x27;s also worth noting that just about any HTML can go within the &lt;code&gt;.accordion-body&lt;/code&gt;, though the transition does limit overflow.
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;accordion-item&quot;&gt;
-    &lt;h2 class=&quot;accordion-header&quot; id=&quot;headingTwo&quot;&gt;
-      &lt;button class=&quot;accordion-button collapsed&quot; type=&quot;button&quot; data-bs-toggle=&quot;collapse&quot; data-bs-target=&quot;#collapseTwo&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseTwo&quot;&gt;
-        &lt;img class=&quot;me-3&quot; src=&quot;assets/images/frage-button-45.png&quot;&gt;(2) Warum wollt Ihr die Einführung der Volksabstimmung mit der Verfassungsfrage verbinden?
-      &lt;/button&gt;
-    &lt;/h2&gt;
-    &lt;div id=&quot;collapseTwo&quot; class=&quot;accordion-collapse collapse&quot; aria-labelledby=&quot;headingTwo&quot; data-bs-parent=&quot;#accordionExample&quot;&gt;
-      &lt;div class=&quot;accordion-body&quot;&gt;
-        &lt;strong&gt;This is the second item&#x27;s accordion body.&lt;/strong&gt; It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It&#x27;s also worth noting that just about any HTML can go within the &lt;code&gt;.accordion-body&lt;/code&gt;, though the transition does limit overflow.
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;accordion-item&quot;&gt;
-    &lt;h2 class=&quot;accordion-header&quot; id=&quot;headingThree&quot;&gt;
-      &lt;button class=&quot;accordion-button collapsed&quot; type=&quot;button&quot; data-bs-toggle=&quot;collapse&quot; data-bs-target=&quot;#collapseThree&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseThree&quot;&gt;
-        &lt;img class=&quot;me-3&quot; src=&quot;assets/images/frage-button-45.png&quot;&gt;(3) Der Weg geht heute in Richtung &quot;Europa&quot;! Betreibt Ihr da nicht ein rückwärtsgewandtes nationalstaatliches Projekt?
-      &lt;/button&gt;
-    &lt;/h2&gt;
-    &lt;div id=&quot;collapseThree&quot; class=&quot;accordion-collapse collapse&quot; aria-labelledby=&quot;headingThree&quot; data-bs-parent=&quot;#accordionExample&quot;&gt;
-      &lt;div class=&quot;accordion-body&quot;&gt;
-        &lt;strong&gt;This is the third item&#x27;s accordion body.&lt;/strong&gt; It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It&#x27;s also worth noting that just about any HTML can go within the &lt;code&gt;.accordion-body&lt;/code&gt;, though the transition does limit overflow.
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;"
-                    adminlabel: "Accordeon"
-                }
-            }
-        }
     }
 }

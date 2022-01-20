@@ -70,9 +70,7 @@ Content {
 &lt;p&gt;
 	Mögliche Fragen für Volksabstimmungen auf Bundesebene wären z.B.:
 &lt;/p&gt;
-&lt;figure&gt;
-	&lt;blockquote class=&quot;blockquote&quot;&gt;
-	&lt;p&gt;
+&lt;blockquote&gt;
 	Wie stellen wir uns Europa und die Einbindung Deutschlands in Europa vor?&lt;/br&gt;
 	Europa als zentralistisches Projekt von Wirtschafts- und Finanzeliten oder als ein demokratisches Projekt der Völker?&lt;/br&gt;&lt;/br&gt;
 
@@ -90,10 +88,8 @@ Content {
 
 	Was halten wir davon, dass unsere Volksvertreter immer mehr Gesetze nur noch abnicken, ohne sie überhaupt nur einsehen zu dürfen (Bspl. TTIP, CETA usf.) ?&lt;/br&gt;&lt;/br&gt;
 
-	Wie steht es mit dem bedingungslosen Grundeinkommen? Dem Recht auf Wohnen? Wollen wir neue, nachhaltigere und gemeinwohlorientiertere Wirtschaftsformen?&lt;/br&gt;&lt;/br&gt;
-	&lt;/p&gt;	
-	&lt;/blockquote&gt;
-&lt;/figure&gt;"
+	Wie steht es mit dem bedingungslosen Grundeinkommen? Dem Recht auf Wohnen? Wollen wir neue, nachhaltigere und gemeinwohlorientiertere Wirtschaftsformen?
+&lt;/blockquote&gt;"
                 }
             }
         }

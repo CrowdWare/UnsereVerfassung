@@ -10,6 +10,15 @@ h1, h2, h3, h4, h5, h6
   color: #1da1ad;
 }
 
+blockquote 
+{
+  font-size: 108% !IMPORTANT;
+  line-height: 1.4;
+  background-color: #1da1ad12;
+  border-left: 8px solid #1da1ad;
+  padding: 2rem 2rem;
+}
+
 a
 {
   color: #800080bf;/*#d8bc5a;*/
