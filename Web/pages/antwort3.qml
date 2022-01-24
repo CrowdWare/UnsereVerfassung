@@ -55,7 +55,28 @@ Content {
                 span: 12
 
                 Text {
-                    text: "&lt;h1&gt;3&lt;/h1&gt;"
+                    text: "&lt;h1 class=&quot;mt-3&quot;&gt;3. Der Weg geht heute Richtung &quot;Europa&quot; ...
+Betreibt Ihr da nicht ein rückwärtsgewandtes nationalstaatliches Projekt?&lt;/h1&gt;
+&lt;p&gt;
+	Man muss mit sich selbst im Reinen sein, um mit anderen gut zusammenwirken zu können.
+	Insofern ist unsere Antwort: Nein!	
+&lt;/p&gt;
+&lt;p&gt;
+	Wir haben es trotz unglaublicher Bemühungen etlicher Initiativen bis heute nicht geschafft, eine echte Demokratie auch nur in Deutschland einzurichten. Wie sollte uns das dann je in Europa gelingen?	
+&lt;/p&gt;
+&lt;p&gt;
+	Die EU hat sich bewusst und systematisch von jeder Tendenz zur Demokratisierung abgeschottet.
+	Deutschland ist das größte Land Europas und liegt in dessen Mitte.
+&lt;/p&gt;
+&lt;p&gt;
+	Wenn wir auf besagtem Weg - und gegebenenfalls gegen alle wirtschaftlichen und politischen Widerstände - unser eigenes Land demokratisieren, geht ein stärkster Impuls zur Demokratisierung für ganz Europa davon aus. 
+&lt;/p&gt;
+&lt;p&gt;
+	D.h., dass damit die demokratischen Kräfte auch aller anderen europäischen Länder Aufwind erhalten - und sich dann auch die EU demokratisieren muss.	
+&lt;/p&gt;
+&lt;p&gt;
+	Insofern sehen wir in unserer Initiative kein &quot;nationalstaatliches&quot; Projekt, sondern den Ansatzpunkt für die bitter notwendige Demokratisierung der EU.
+&lt;/p&gt;"
                 }
             }
         }
