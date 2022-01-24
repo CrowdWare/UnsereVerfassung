@@ -18,7 +18,7 @@ Content {
                 Text {
                     text: "&lt;h1 class=&quot;mt-3&quot;&gt;Datenschutz&lt;/h1&gt;
 &lt;p class=&quot;lead&quot;&gt;
-	 Hier informieren wir Dich über die datenschutzrelevanten 
+	Hier informieren wir Dich über die datenschutzrelevanten 
 	Aspekte unserer Arbeitund über Deine damit zusammenhängenden Rechte.
 &lt;/p&gt;
 &lt;p&gt;
@@ -129,6 +129,7 @@ Content {
 &lt;p&gt;
 	Für Auskunft oder Löschung Deiner Daten setzte Dich bitte mit uns über &lt;a href=&quot;mailto:datenschutz@unsere-verfassung.de&quot;&gt;datenschutz@unsere-verfassung.de&lt;/a&gt; oder über den Postweg (Datenschutz, Unsere Verfassung e.V., Spanheimstr. 11, 13357 Berlin) in Verbindung.
 &lt;/p&gt;"
+                    adminlabel: "Datenschutz"
                 }
             }
         }
@@ -160,14 +161,17 @@ Content {
 	Wir nutzen nur technisch notwendige Cookies. Notwendige Cookies helfen dabei, eine Webseite nutzbar zu machen, indem sie Grundfunktionen wie Seitennavigation und Zugriff auf sichere Bereiche der Webseite ermöglichen. Die Webseite kann ohne diese Cookies nicht richtig funktionieren.&lt;/br&gt;&lt;/br&gt;
 	Verwendete Cookies sind: 
 &lt;/p&gt;
-&lt;table border=&quot;1&quot;&gt;
-	&lt;th&gt;
+&lt;table class=&quot;table table-bordered&quot;&gt;
+	&lt;thead&gt;
+	&lt;tr&gt;
 		&lt;td&gt;Name&lt;/td&gt;
 		&lt;td&gt;Anbieter&lt;/td&gt;
 		&lt;td&gt;Zweck&lt;/td&gt;
 		&lt;td&gt;Ablauf&lt;/td&gt;
 		&lt;td&gt;Typ&lt;/td&gt;
-	&lt;/th&gt;
+	&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
 	&lt;tr&gt;
 		&lt;td&gt;rc::a&lt;/td&gt;
 		&lt;td&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://policies.google.com/privacy&quot;&gt;Google&lt;/a&gt;&lt;/td&gt;
@@ -189,7 +193,196 @@ Content {
 		&lt;td&gt;1 Monat&lt;/td&gt;
 		&lt;td&gt;HTTP&lt;/td&gt;
 	&lt;/tr&gt;
-&lt;/table&gt;"
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3&gt;3. reCAPTCHA&lt;/h3&gt;
+&lt;p&gt;
+	Für die Sicherung der Eingaben auf dem Abstimmungsformular unserer Webseite verwenden wir die reCAPTCHA Funktion von Google. Diese Funktion dient zur Unterscheidung, ob eine Eingabe durch eine natürliche Person oder missbräuchlich durch maschinelle und automatisierte Verarbeitung erfolgt. 
+&lt;/p&gt;
+&lt;p&gt;
+	Der Dienst umfasst den Versand der IP-Adresse und ggf. weiterer von Google für den Dienst reCAPTCHA benötigter Daten an Google und erfolgt gemäß Art. 6 Abs. 1 lit. f DSGVO auf Basis unseres berechtigten Interesses an der Feststellung angemessener individueller Eingaben im Internet und der Vermeidung von Missbrauch und Spam. 
+&lt;/p&gt;
+&lt;p&gt;
+	 Im Rahmen der Nutzung von Google reCAPTCHA kann es auch zu einer Übermittlung von personenbezogenen Daten wie IP-Adressen etc. an die Server der Google LLC. in den USA kommen. Nicht übertragen werden die von Dir persönlich im Abstimmungsformular eingegebenen Daten.
+&lt;/p&gt;
+&lt;p&gt;
+	Weiterführende Informationen zu Google reCAPTCHA sowie die Datenschutzerklärung von Google kannst Du &lt;a target=&quot;_blank&quot; href=&quot;https://www.google.com/intl/de/policies/privacy&quot;&gt;hier einsehen&lt;/a&gt;. 	
+&lt;/p&gt;
+&lt;h3&gt;4. Verlinkungen&lt;/h3&gt;
+&lt;p&gt;
+	Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte und das Datenschutzverhalten externer Links.  Solche Links führen auf die Seiten anderer Betreiber, deren Datenschutzverhalten außerhalb unserer Kontrolle liegt. 
+&lt;/p&gt;
+&lt;h3&gt;5. Paypal&lt;/h3&gt;
+&lt;p&gt;
+	Wenn du uns mit Spenden unterstützen möchtest, kannst du das auch über den Anbieter Paypal tun. Wir verlinken auf unserer Webseite zur Login Seite von Paypal. Von Paypal wird dann ein Cookie bei Dir gesetzt, der notwendig für die Login-Funktion auf der Webseite von Paypal ist.
+&lt;/p&gt;
+&lt;p&gt;
+	Rechtsgrundlage ist Art. 6 Abs. 1 b) DSGVO, da die Verarbeitung der Daten für die Bezahlung per Sofortüberweisung und damit für die Durchführung des Vertrages erforderlich ist. Bei weitergehenden Fragen wende dich bitte direkt an den Anbieter.	
+&lt;/p&gt;
+&lt;p&gt;
+	&lt;a target=&quot;_blank&quot; href=&quot;https://www.paypal.com/de/smarthelp/contact-us&quot;&gt;Kontaktinformationen&lt;/a&gt;&lt;/br&gt;
+	&lt;a target=&quot;_blank&quot; href=&quot;https://www.paypal.com/webapps/mpp/ua/privacy-full&quot;&gt;Datenschutzerklärung&lt;/a&gt;
+&lt;/p&gt;"
+                    adminlabel: "B: Erhebung personenbezogener"
+                }
+            }
+        }
+    }
+
+    Section {
+
+        Row {
+
+            Column {
+                span: 12
+
+                Text {
+                    text: "&lt;h2&gt;C. Sicherheit&lt;/h2&gt;
+&lt;p&gt;
+	1. Wir setzen technische und organisatorische Sicherheitsmaßnahmen ein um zu gewährleisten dass die personenbezogenen Daten unserer Nutzer vor Verlust, unrichtigen Veränderungen oder unberechtigten Zugriffen geschützt sind.
+&lt;/p&gt;
+&lt;p&gt;
+	2. In jedem Fall haben von unserer Seite nur berechtigte Personen Zugang zu den bei uns gespeicherten und verarbeiteten personenbezogene Daten und dies auch nur insoweit als es im Rahmen der oben genannten Zwecke erforderlich ist.
+&lt;/p&gt;
+&lt;p&gt;
+	3. Die Verbindungen zu unseren Webseiten sind SSL verschlüsselt 
+&lt;/p&gt;"
+                    adminlabel: "Sicherheit"
+                }
+            }
+        }
+    }
+
+    Section {
+
+        Row {
+
+            Column {
+                span: 12
+
+                Text {
+                    text: "&lt;h2&gt;D: Weitergabe an Dritte&lt;/h2&gt;
+&lt;p&gt;
+	Wir geben Deine personenbezogenen Daten nur dann an Dritte weiter, wenn und soweit dies zur Durchführung des Anliegens der hier vorgelegten Abstimmungen selbst notwendig ist. Sollten Regierung, Behörden oder andere Organe der verfassten Gewalt, Anspruch auf die Daten erheben, werden wir dem nicht nachkommen 
+	&lt;span class=&quot;text-danger&quot;&gt;und die Entscheidung darüber bis zur letztmöglichen Instanz durchkämpfen&lt;/span&gt;. 
+	Nach Recht und Gesetz stehen Aktivitäten und Organe der verfassungsgebenden Gewalt AUßERHALB der Grenzen der verfassten Gewalt (s. Wikipedia &quot;&lt;a target=&quot;_blank&quot; href=&quot;https://de.wikipedia.org/wiki/Pouvoir_constituant#Verfassunggebende_Gewalt_als_juristischer_und_politischer_Grenzbegriff&quot;&gt;Verfassungsgebende Gewalt&lt;/a&gt;&quot;) und sind auch nach Artikel 20 GG (Alle Staatsgewalt geht vom Volke aus) und Artikel 146 GG (Das Grundgesetz verliert seine Gültigkeit, wenn ...) nicht an Gesetze und Verfügungen der verfassten Gewalt gebunden. 
+&lt;/p&gt;"
+                    adminlabel: "Weitergabe an Dritte"
+                }
+            }
+        }
+    }
+
+    Section {
+
+        Row {
+
+            Column {
+                span: 12
+
+                Text {
+                    text: "&lt;h2&gt;E: Newsletter&lt;/h2&gt;
+&lt;p&gt;
+	Diese Website nutzt die Dienste von MailChimp für den Versand von Newslettern. Anbieter ist die Rocket Science Group LLC, 675 Ponce De Leon Ave NE, Suite 5000, Atlanta, GA 30308, USA.
+&lt;/p&gt;
+&lt;p&gt;
+	MailChimp ist ein Dienst, mit dem u.a. der Versand von Newslettern organisiert und analysiert werden kann. Wenn Du Daten zum Zwecke des Newsletterbezugs eingibst (z.B. E-Mail-Adresse), werden diese auf den Servern von MailChimp in den USA gespeichert.	
+&lt;/p&gt;
+&lt;p&gt;
+	MailChimp verfügt über eine Zertifizierung nach dem “EU-US-Privacy-Shield”. Der “Privacy-Shield” ist ein Übereinkommen zwischen der Europäischen Union (EU) und den USA, das die Einhaltung europäischer Datenschutzstandards in den USA gewährleisten soll.	
+&lt;/p&gt;
+&lt;p&gt;
+	Zusätzlich haben wir mit MailChimp ein sog. „Data-Processing-Agreement“ abgeschlossen, in dem wir MailChimp verpflichten, die Daten unserer Kunden zu schützen und sie nicht an Dritte weiterzugeben. Dieser Vertrag kann unter diesem &lt;a target=&quot;_blank&quot; href=&quot;https://mailchimp.com/legal/forms/data-processing-agreement/sample-agreement/&quot;&gt;Link&lt;/a&gt; eingesehen werden.
+&lt;/p&gt;
+&lt;p&gt;
+	Mit Hilfe von MailChimp können wir unsere Newsletterkampagnen analysieren. Wenn Du eine mit MailChimp versandte E-Mail öffnest, verbindet sich eine in der E-Mail enthaltene Datei (sog. web-beacon) mit den Servern von MailChimp in den USA. So kann festgestellt werden, ob eine Newsletter-Nachricht geöffnet und welche Links ggf. angeklickt wurden. Außerdem werden technische Informationen erfasst (z.B. Zeitpunkt des Abrufs, IP-Adresse, Browsertyp und Betriebssystem). Diese Informationen können nicht dem jeweiligen Newsletter-Empfänger zugeordnet werden. Sie dienen ausschließlich der statistischen Analyse von Newsletterkampagnen. Die Ergebnisse dieser Analysen können genutzt werden, um künftige Newsletter besser an die Interessen der Empfänger anzupassen.	
+&lt;/p&gt;
+&lt;p&gt;
+	Wenn Du keine Analyse durch MailChimp willst, musst Du den Newsletter abbestellen. Hierfür stellen wir in jeder Newsletternachricht einen entsprechenden Link zur Verfügung. 	
+&lt;/p&gt;
+&lt;p&gt;
+	 Die Datenverarbeitung erfolgt auf Grundlage Deiner Einwilligung (Art. 6 Abs. 1 lit. a DSGVO). Du kannst diese Einwilligung jederzeit widerrufen, indem Du den Newsletter abbestellst. Die Rechtmäßigkeit der bereits erfolgten Datenverarbeitungsvorgänge bleibt vom Widerruf unberührt.	
+&lt;/p&gt;
+&lt;p&gt;
+	Die von Dir zum Zwecke des Newsletter-Bezugs bei uns hinterlegten Daten werden von uns bis zu Ihrer Austragung aus dem Newsletter gespeichert und nach der Abbestellung des Newsletters sowohl von unseren Servern als auch von den Servern von MailChimp gelöscht. 	
+&lt;/p&gt;
+&lt;p&gt;
+	Näheres kannst Du den &lt;a href=&quot;https://mailchimp.com/legal/terms/&quot;&gt;Datenschutzbestimmungen&lt;/a&gt; von MailChimp entnehmen.
+&lt;/p&gt;"
+                    adminlabel: "Newsletter"
+                }
+            }
+        }
+    }
+
+    Section {
+
+        Row {
+
+            Column {
+                span: 12
+
+                Text {
+                    text: "&lt;h2&gt;F: Gültigkeitsbereich&lt;/h2&gt;
+&lt;p&gt;
+	Diese Datenschutzerklärung gilt für alle Inhalte auf unserer Seiten &lt;a target=&quot;_blank&quot; href=&quot;https://unsere-verfassung.de&quot;&gt;https://unsere-verfassung.de&lt;/a&gt; und &lt;a target=&quot;_blank&quot; href=&quot;https://unsere-verfassung.com&quot;&gt;https://unsere-verfassung.com&lt;/a&gt;. Sie umfasst nicht die auf unseren Seiten verlinkten Webseiten.
+&lt;/p&gt;"
+                    adminlabel: "Gültigkeitsbereich"
+                }
+            }
+        }
+    }
+
+    Section {
+
+        Row {
+
+            Column {
+                span: 12
+
+                Text {
+                    text: "&lt;h2&gt;G: Wirksamkeit&lt;/h2&gt;
+&lt;p&gt;
+	 Die Anzeige &quot;Letzte Aktualisierung&quot; im Eingangsbereich der Datenschutzerklärung gibt an, wann die Datenschutzerklärung zuletzt überarbeitet wurde. Änderungen werden wirksam wenn wir die überarbeitete Datenschutzerklärung auf unserer Plattform veröffentlichen.
+&lt;/p&gt;"
+                    adminlabel: "Wirksamkeit"
+                }
+            }
+        }
+    }
+
+    Section {
+
+        Row {
+
+            Column {
+                span: 12
+
+                Text {
+                    text: "&lt;h2&gt;H: Aktualisierung&lt;/h2&gt;
+&lt;p&gt;
+	Neue technische Entwicklungen im Internet sowie die Weiterentwicklung unserer Seite machen von Zeit zu Zeit Anpassungen oder Ergänzung der Datenschutzerklärung erforderlich. Du wirst an dieser Stelle über die Neuerungen informiert.
+&lt;/p&gt;"
+                    adminlabel: "Aktualisierung"
+                }
+            }
+        }
+    }
+
+    Section {
+
+        Row {
+
+            Column {
+                span: 12
+
+                Text {
+                    text: "&lt;h2&gt;I: Kontakt&lt;/h2&gt;
+&lt;p&gt;
+	
+
+Bitte nimm über &lt;a href=&quot;mailto:datenschutz@unsere-verfassung.de&quot;&gt;datenschutz@unsere-verfassung.de&lt;/a&gt; oder über den Postweg (Datenschutz, Unsere Verfassung e.V., Spanheimstr 11, 13357 Berlin) Kontakt mit uns auf.
+&lt;/p&gt;"
                 }
             }
         }
