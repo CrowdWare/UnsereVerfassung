@@ -39,7 +39,24 @@ Content {
                 span: 12
 
                 Text {
-                    text: "&lt;h1 class=&quot;mt-3&quot;&gt;Kontakt&lt;/h1&gt;"
+                    text: "&lt;h1 class=&quot;mt-3&quot;&gt;Kontakt ...&lt;/h1&gt;
+&lt;h3&gt;Unsere Verfassung e.V.&lt;/h3&gt;
+&lt;p&gt;
+	Spanheimstr. 11&lt;/br&gt;
+	13357 Berlin&lt;/br&gt;
+	Tel: 030 499 116 47&lt;/br&gt;
+	Mail: &lt;a href=&quot;mailto:kontakt@unsere-verfassung.de&quot;&gt;kontakt@unsere-verfassung.de&lt;/a&gt;
+&lt;/p&gt;
+&lt;h3&gt;Eintrag im Vereinsregister: &lt;/h3&gt;
+&lt;p&gt;
+	Amtsgericht Berlin&lt;/br&gt;
+	Registernummer: VR 39282 B
+&lt;/p&gt;
+&lt;h3&gt;Verantwortlich für den Inhalt der Webseite nach § 55 Abs. 2 RStV&lt;/h3&gt;
+&lt;p&gt;
+	Ralph Boes&lt;/br&gt;
+	Unsere Verfassung e.V., Spanheimstr. 11, 13357 Berlin
+&lt;/p&gt;"
                     adminlabel: "Kontakt"
                 }
             }
