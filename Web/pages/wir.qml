@@ -19,7 +19,7 @@ Content {
                     text: "&lt;!-- how to change a breadcrumb into a menubar ;-) --&gt;
 &lt;nav class=&quot;mt-2&quot; style=&quot;--bs-breadcrumb-divider: &#x27; - &#x27;;&quot; aria-label=&quot;breadcrumb&quot;&gt;
   &lt;ol class=&quot;breadcrumb&quot;&gt;
-    &lt;li class=&quot;breadcrumb-item&quot; active&quot; aria-current=&quot;page&quot;&gt;Wer wir sind&lt;/li&gt;
+    &lt;li class=&quot;breadcrumb-item active&quot; aria-current=&quot;page&quot;&gt;Wer wir sind&lt;/li&gt;
 	&lt;li class=&quot;breadcrumb-item&quot;&gt;&lt;a href=&quot;referenten.html&quot;&gt;Referenten&lt;/a&gt;&lt;/li&gt;
 	&lt;li class=&quot;breadcrumb-item&quot;&gt;&lt;a href=&quot;spenden.html&quot;&gt;Spenden&lt;/a&gt;&lt;/li&gt;
     &lt;li class=&quot;breadcrumb-item&quot;&gt;&lt;a href=&quot;kontakt.html&quot;&gt;Kontakt&lt;/a&gt;&lt;/li&gt;

@@ -27,6 +27,7 @@ Content {
 	&lt;li class=&quot;breadcrumb-item active&quot; aria-current=&quot;page&quot;&gt;&gt; Ivo Zsiros&lt;/li&gt;
   &lt;/ol&gt;
 &lt;/nav&gt;"
+                    adminlabel: "breadcrumb"
                 }
             }
         }

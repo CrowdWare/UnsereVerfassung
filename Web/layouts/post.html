@@ -2,14 +2,27 @@
 <html lang="de">
   {% include "head.html" %}
   <body>
-    {% include "nav.html" %}
+	<a href="index.html"><img src="assets/images/header-mobile.png" class="img-fluid" /></a>
+    {% include "blognav.html" %}
+
+	<div class="container">
+	<nav class="mt-2" style="--bs-breadcrumb-divider: ' - ';" aria-label="breadcrumb">
+		<ol class="breadcrumb">
+	  	<li class="breadcrumb-item"><a href="aktuelles.html">Aktuelles</a> > </li>
+		<li class="breadcrumb-item active" aria-current="page">{{ page.title}}</li>
+		</ol>
+  	</nav>
+	</div>
 
     <div class="container theme-showcase" role="main">
 	<div class='post'>
-	<h1>{{ page.title }}</h1>
-	<div class='date'>posted {{ page.date }} by {{ page.author }}</div>
+	<h1 class="mt-5">{{ page.title }}</h1>
+	<div class='date'>veröffentlicht {{ page.date }} von {{ page.author }}</div>
 	<div class='body'>{{ content }}</div>
 	</div>
+	</div>
+	<div class="text-end">
+		<img src="assets/images/footer-mobile.png" class="img-fluid" />
 	</div>
 	{% include "footer.html" %}
 	{% include "scripts.html" %}
