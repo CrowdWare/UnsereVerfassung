@@ -17,7 +17,9 @@ Content {
                 span: 12
 
                 Text {
-                    text: "&lt;p&gt;Lorem ipsum dolor simit&lt;/p&gt;"
+                    text: "&lt;p&gt;Lorem ipsum dolor simit&lt;/p&gt;
+
+&lt;h1&gt;Groß&lt;/h1&gt;"
                 }
             }
         }
