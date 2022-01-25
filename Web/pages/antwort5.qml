@@ -55,7 +55,20 @@ Content {
                 span: 12
 
                 Text {
-                    text: "&lt;h1&gt;5&lt;/h1&gt;"
+                    text: "&lt;h1 class=&quot;mt-3&quot;&gt;5. Sollte man nicht lieber gleich eine vollständig neue Verfassung schreiben, statt das Grundgesetz zur Verfassung zu erheben?&lt;/h1&gt;
+&lt;p&gt;
+	Die Frage ist: was muss geschehen, damit das Volk sich eine verfassungsgebende Versammlung einberuft, um sich eine neue Verfassung zu schreiben?&lt;/br&gt;
+	Man müsste erst mit dem Grundgesetz unzufrieden sein!
+&lt;/p&gt;
+&lt;p&gt; 
+	Mit dem Grundgesetz  - soweit man auf die Kernbestimmungen sieht und außer Acht lässt, was durch unsere Politiker daran bereits verunstaltet ist - sind die Wenigsten unzufrieden. Unzufrieden ist man eher damit, dass seine Kernbestimmungen (vor allem Artikel 1 bis 19 und Artikel 20 [Alle Staatsgewalt geht vom Volke aus]) von den Politikern nicht beachtet werden. 
+&lt;/p&gt;
+&lt;p&gt;
+	Während eine tatsächlich vom Volk ausgehende verfassungs-gebende Versammlung derzeit kaum eine Chance hat, ist die Erhebung des GG zur Verfassung der offen stehende Weg:
+&lt;/p&gt;
+&lt;p&gt;
+	Er achtet die hohe Übereinstimmung, die die Bevölkerung gerade mit dem Grundgesetz hat, verwehrt dennoch nicht die in den Verfassungsinitiativen gesehenen Fortentwicklungsnotwenigkeiten des GG und wirkt der Auslöschung des GG durch Politik und Wirtschaft entgegen.
+&lt;/p&gt;"
                 }
             }
         }

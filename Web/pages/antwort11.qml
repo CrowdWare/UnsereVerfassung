@@ -55,7 +55,11 @@ Content {
                 span: 12
 
                 Text {
-                    text: "&lt;h1&gt;11&lt;/h1&gt;"
+                    text: "&lt;h1 class=&quot;mt-3&quot;&gt;11. Auf dem Wege zur Verfassung - wie sehen die Änderungen des Grundgesetzes im Einzelnen aus?&lt;/h1&gt;
+&lt;p&gt;
+	Die vollständige Auflistung der Änderungen ist hier gegeben.
+&lt;/p&gt;
+&lt;a href=&quot;https://unsere-verfassung.de/Abstimmung/Apparat.htm&quot; class=&quot;btn btn-primary btn-lg&quot; tabindex=&quot;-1&quot; role=&quot;button&quot;&gt;Änderungen&lt;/a&gt;"
                 }
             }
         }

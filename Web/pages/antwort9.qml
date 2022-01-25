@@ -55,7 +55,29 @@ Content {
                 span: 12
 
                 Text {
-                    text: "&lt;h1&gt;9&lt;/h1&gt;"
+                    text: "&lt;h1 class=&quot;mt-3&quot;&gt;9. Gibt es einen Zusammenhang mit den &quot;Reichsbürgern&quot;?&lt;/h1&gt;
+&lt;p&gt;
+	&lt;strong&gt;Nein!&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;
+	&quot;Reichsbürger&quot; ist ein sehr verkürzender Sammelbegriff für einen Teil das Grundgesetz ablehnender Menschen. 
+&lt;/p&gt;
+&lt;p&gt;
+	Wir hingegen
+&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;schätzen das Grundgesetz trotz seiner historischen Bedingtheiten,&lt;/li&gt;
+    &lt;li&gt;halten seinen Grundimpuls für die unbedingt angemessene Antwort auf die Verbrechen des dritten Reiches&lt;/li&gt;
+    &lt;li&gt;sehen in ihm aber auch schon den angemessenen Schutz für die Katastrophen einer sich weltweit etablierenden Wirtschafts-, &quot;Eliten&quot;- und Kapitalmarktdiktatur,&lt;/li&gt;
+    &lt;li&gt;möchten Deutschland deshalb nicht eine neue Verfassung, sondern das Grundgesetz selbst zur Verfassung geben (diese dann allerdings erweitert um die volle Souveränität des Volkes über dann: seine Verfassung)&lt;/li&gt;
+    &lt;li&gt;und sehen in ihm, gerade wenn es ernst genommen wird, die Basis für den freien Menschen:&lt;/li&gt;
+	&lt;li&gt;Achtung und Schutz der Menschenwürde als Aufgabe ALLER staatlichen Gewalt (Art.1)&lt;/li&gt;
+	&lt;li&gt;Recht auf freie Entfaltung der Persönlichkeit (Art. 2)&lt;/li&gt;
+	&lt;li&gt;Demokratie-, Sozialstaats- und Rechtsstaatsprinzip (Art. 20)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+	Die Unterschiede könnten kaum gravierender sein.
+&lt;/p&gt;"
                 }
             }
         }

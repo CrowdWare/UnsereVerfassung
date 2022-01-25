@@ -55,7 +55,17 @@ Content {
                 span: 12
 
                 Text {
-                    text: "&lt;h1&gt;Bla&lt;/h1&gt;"
+                    text: "&lt;h1 class=&quot;mt-3&quot;&gt;12. Wie seht Ihr die Schwierigkeiten des Projektes - und wie wollt Ihr ihnen begegnen?&lt;/h1&gt;
+&lt;h2&gt;I.&lt;/h2&gt;
+&lt;p&gt;
+	Es sind nur Bundestags-Wahlberechtigte zur Abstimmung zugelassen. Die Abstimmungsberechtigungen sollen am Ende der Abstimmung durch die entsprechenden Ämter überprüft werden. Es könnte sein, dass sich die Ämter dieser Aufgabe verweigern.&lt;/br&gt; 
+	Wir werden dann alle abgegebenen Stimmen für berechtigt erklärt.
+&lt;/p&gt;
+&lt;h2&gt;II.&lt;/h2&gt;
+&lt;p&gt;
+	s handelt sich um eine Online-Abstimmung. Es könnte sein, dass sich Stimmen erheben, die die Online-Abstimmungen für prinzipiell nicht zulässig erklären … 
+	Wir fordern dann Bundesrat, Bundestag und die zuständigen Wahlbehörden auf, die gesamte Infrastruktur – einschließlich der für eine Abstimmung notwendigen Personal- und Sachmittel – für eine analoge Abstimmung nach dem Muster der Bundestagswahlen zur Verfügung zu stellen. Da es sich beim Volk um die verfassungs-gebende Gewalt handelt (Alle Staatsgewalt geht von Volke aus), bei Politik und Behörden aber nur um die verfasste Gewalt, können sich letztere, genügend Stimmen der Online-Abstimmung vorausgesetzt, dem nicht verweigern.
+&lt;/p&gt;"
                 }
             }
         }

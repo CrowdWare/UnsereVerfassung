@@ -58,34 +58,16 @@ Content {
                     text: "&lt;h1 class=&quot;mt-3&quot;&gt;4. Wie ist das Grundgesetz zur Verfassung zu erheben?
 Und werden Politik und Gerichte den vorgeschlagenen Weg gestatten?&lt;/h1&gt;
 &lt;p&gt;
-	1. Wie ist das Grundgesetz zur Verfassung zu erheben?
+	a. Die Erhebung des GG zur Verfassung wird durch Volksabstimmung vollzogen. Für die Durchführung dieser Volksabstimmung gibt es im Grundgesetz selbst keinerlei Bestimmung, weil sie außerhalb des Rahmens des Grundgesetzes liegt.
 &lt;/p&gt;
 &lt;p&gt;
-	Es wird dafür eine Volks-Urabstimmung initiiert. Für die Durchführung dieser Urabstimmung gibt es im Grundgesetz selbst keinerlei Bestimmung, weil sie außerhalb des Rahmens des Grundgesetzes liegt. D.h., wir werden die Abstimmung selbst zu gestalten haben.
+	b. Das Grundgesetz verliert seine Gültigkeit, wenn eine Verfassung in Kraft tritt, die vom deutschen Volk in freier Entscheidung beschlossen worden ist. (Artikel 146 GG)
 &lt;/p&gt;
 &lt;p&gt;
-	Ideen dazu sind heute vielfältig da - wir werden darüber diskutieren müssen.
+	Dasselbe gilt auch für sämtliche vom Grundgesetz abhängigen Institutionen (Politiker, Amtsträger, Richter usf.). Sie sind nur verfasste und nicht die verfassungsgebende Gewalt. Mit der Gültigkeit des Grundgesetzes verlieren auch sie und ihre Meinungen ihre Geltung.	
 &lt;/p&gt;
 &lt;p&gt;
-	2. Werden Politik und Gerichte den vorgeschlagenen Weg gestatten?
-&lt;/p&gt;
-&lt;p&gt;
-	Als Luther in der katholischen Kirche die Geltung des Christentums einforderte, gab es natürlich Krach.&lt;/br&gt;
-	Wenn wir in der Bundesrepublik die Gültigkeit des Grundgesetzes einfordern, und dieses sogar zu einer von uns selbst ergriffenen und verantworteten Verfassung erheben, wird das kaum anders sein.&lt;/br&gt;
-	Zu viele Vorteile, die man sich &quot;oben&quot; inzwischen zugestanden hat, werden dadurch in Frage gestellt.
-&lt;/p&gt;
-&lt;p&gt;
-	Die einfache Wahrheit ist aber,&lt;/br&gt;
-	dass das Grundgesetz seine Gültigkeit verliert, wenn eine Verfassung in Kraft tritt, die vom deutschen Volk in freier Entscheidung beschlossen worden ist (Artikel 146 GG)
-	und dass dasselbe auch für alle vom Grundgesetz abhängigen Institutionen (Politiker, Amtsträger, Richter usf.) gilt.&lt;/br&gt;
-	Mit der Gültigkeit des Grundgesetzes verlieren auch sie ihre Geltung.
-&lt;/p&gt;
-&lt;p&gt;
-	D.h., dass alle diese Institutionen und Personen zwar ihre Meinung sagen können,
-	über die Legitimität der von uns angestrebten Verfassungsbewegung aber nichts zu entscheiden und auch nichts zu gestatten haben.
-&lt;/p&gt;
-&lt;p&gt;
-	Über die Legitimität einer Verfassungsbewegung hat allein die verfassungsgebende, nicht aber die verfasste Gewalt zu entscheiden. 	
+	D.h., dass alle diese Institutionen und Personen über die Legitimität der von uns angestrebten Verfassungsbewegung nichts zu entscheiden und auch nichts zu gestatten haben. Über die Legitimität einer Verfassungsbewegung hat allein die verfassungsgebende, nicht aber die verfasste Gewalt zu entscheiden.
 &lt;/p&gt;"
                 }
             }

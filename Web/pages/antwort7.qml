@@ -55,7 +55,17 @@ Content {
                 span: 12
 
                 Text {
-                    text: "&lt;h1&gt;7&lt;/h1&gt;"
+                    text: "&lt;h1 class=&quot;mt-3&quot;&gt;7. Wie unterscheidet ihr Euch von anderen Volksabstimmungs-initiativen - 
+    z.B. von &quot;Omnibus&quot; oder &quot;Mehr Demokratie&quot;?&lt;/h1&gt;
+&lt;p&gt;
+	Das Ziel ist dasselbe - doch der Weg ist ein anderer.
+&lt;/p&gt;
+&lt;p&gt;
+	Während wir das Grundgesetz zur Verfassung erheben wollen, um TROTZ des Wirkens der Parteien die Volksabstimmung einführen zu können, glauben &quot;Mehr Demokratie e.V.&quot; und &quot;Omnibus für direkte Demokratie&quot;, dass über die Parteien positiv etwas zu bewirken ist. Sie versuchen noch, die Parteien zur Einführung der Volksabstimmung zu bewegen und haben sich noch nicht (voll) eingestanden, dass die Parteien, wenn sie an der Macht sind (!), prinzipiell von den Bedürfnissen der Bevölkerung abgeschottet  und voll im Griff der Wirtschaftsmächte sind.
+&lt;/p&gt;
+&lt;p&gt; 
+	Ansonsten unterscheiden wir uns dadurch, dass &quot;Mehr Demokratie e.V.&quot; und &quot;Omnibus&quot; schon eine lange Geschichte und unglaublich vieles schon bewirkt haben, während wir im Beginne unserer Arbeit sind.
+&lt;/p&gt;"
                 }
             }
         }

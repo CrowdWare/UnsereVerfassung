@@ -55,7 +55,17 @@ Content {
                 span: 12
 
                 Text {
-                    text: "&lt;h1&gt;6&lt;/h1&gt;"
+                    text: "&lt;h1 class=&quot;mt-3&quot;&gt;6. Sollte man sich nicht eher um die Lösung von brennenden Sachthemen kümmern,
+    als sich mit Verfassungsfragen aufzuhalten?&lt;/h1&gt;
+&lt;p&gt;
+	Volksabstimmung öffnet für viele bedeutende Initiativen erst die Tore in die Welt. Und nur der souveräne WEG zur Einrichtung der Volksabstimmung wird hier vorgeschlagen. 
+&lt;/p&gt;
+&lt;p&gt;
+	Dieser Weg muss nur einmal gemeinsam gegangen werden, um das Mittel der Volksabstimmung dann für jede Initiative zur Verfügung zu haben.   
+&lt;/p&gt;
+&lt;p&gt;
+	Insofern stellt er den Türöffner für jede gemeinnützige Initiative - oder den &quot;Angelpunkt&quot; für die notwendige demokratische Weiterentwicklung der Gesellschaft dar.
+&lt;/p&gt;"
                 }
             }
         }

@@ -55,7 +55,19 @@ Content {
                 span: 12
 
                 Text {
-                    text: "&lt;h1&gt;8&lt;/h1&gt;"
+                    text: "&lt;h1 class=&quot;mt-3&quot;&gt;8. Wie unterscheiden ihr Euch von anderen Verfassungs-initiativen?&lt;/h1&gt;
+&lt;p&gt;
+	Derartige Initiativen (es gab auch schon bedeutende Initiativen in der Vergangenheit) leisten sehr viel in der gedanklichen Durchdringung der Grundlagen der Gesellschaft und bringen auch wesentlichste Impulse zur Weiterbildung z.B. des Grundgesetzes hervor. 
+&lt;/p&gt;
+&lt;p&gt;
+	Bedingung der direkten Umsetzung ihrer Ideen ist aber die Einberufung eines Verfassungskonventes, was erst nach schwerwiegendsten Zusammenbrüchen der Gesellschaft denkbar ist.
+&lt;/p&gt;
+&lt;p&gt;
+	Wenn das Grundgesetz zur Verfassung erhoben und die Volksabstimmung mit eingerichtet ist, können die Ideen solcher Initiativen aber sehr fruchtbar für die Weiterentwicklung des Grundgesetzes sein. Sie könnten dann in einer verfassungs-klärenden Versammlung und in weiteren Volksabstimmungen behandelt werden.
+&lt;/p&gt;
+&lt;p&gt;
+	Verfassungsinitiativen, die das Grundgesetz und seine allgemeinmenschliche Orientierung ablehnen, stehen indessen in vollständigem Gegensatz zu unserer Intention. 
+&lt;/p&gt;"
                 }
             }
         }

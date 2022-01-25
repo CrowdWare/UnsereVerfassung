@@ -57,39 +57,14 @@ Content {
                 Text {
                     text: "&lt;h1 class=&quot;mt-3&quot;&gt;2. Warum wollt Ihr die Einführung der Volksabstimmung mit der Verfassungsfrage verbinden?&lt;/h1&gt;
 &lt;p&gt;
-	Schon lange wird versucht, Volksabstimmung auch auf Bundesebene 
-	einzuführen - und dabei den Weg über die Parteien zu gehen.  
-	Die Parteien sollen die Einführung der Volksabstimmung besorgen. 
+	Schon lange wird versucht, Volksabstimmung auch auf Bundesebene einzuführen - und dabei den Weg über die Parteien zu gehen.  Die Parteien sollen die Einführung der Volksabstimmung besorgen. 
 &lt;/p&gt;
 &lt;p&gt;
-	Man muss sich aber nur einmal vor Augen führen, um welche Dimensionen 
-	von Fragen es bei einer Volksabstimmung auf Bundesebene gehen könnte, 
-	um das prinzipielle Unbehagen der führenden Parteien an der Volksabstimmung 
-	zu begreifen.
+	Volksabstimmung wird dort aber als Konkurrenz empfunden und ihre Einführung deshalb konsequent blockiert.
 &lt;/p&gt;
 &lt;p&gt;
-	Mögliche Fragen für Volksabstimmungen auf Bundesebene wären z.B.:
-&lt;/p&gt;
-&lt;blockquote&gt;
-	Wie stellen wir uns Europa und die Einbindung Deutschlands in Europa vor?&lt;/br&gt;
-	Europa als zentralistisches Projekt von Wirtschafts- und Finanzeliten oder als ein demokratisches Projekt der Völker?&lt;/br&gt;&lt;/br&gt;
-
-	Was macht unser Militär am Hindukusch? Wollen wir die &quot;Speerspitze&quot; Europas gegen Russland sein? Ist es ok, dass mit der Wende die durch Willi Brandt initiierte Entspannungspolitik aufgegeben wurde?&lt;/br&gt;&lt;/br&gt;
-
-	Wie stehen wir zum &quot;transatlantischen Bündnis&quot; und zur Nato?&lt;/br&gt;&lt;/br&gt;
-
-	Wie stehen wir zum Problem der Waffenexporte? Zum Problem der Privatisierung der Autobahnen, der Rente, des Wassers?&lt;/br&gt;&lt;/br&gt;
-
-	Wie stehen wir zur Gentechnik? Zum Aussterben der Kleinbauern und zur ausschließlichen Förderung von Massentierhaltung und industriell vollzogener Landwirtschaft?&lt;/br&gt;&lt;/br&gt;
-
-	Wollen wir ein Einwanderungsland sein - und was soll das heißen? Wollen wir Einwanderung aus zentral-menschlichen oder Einwanderung aus &quot;wirtschaftlichen&quot; (besser: &quot;Ausbeutungs-&quot;) Gründen?&lt;/br&gt;&lt;/br&gt;
-
-	Was halten wir von der Abschaffung des Bargeldes? Was halten wir von der Einführung des Staatstrojaners, von Gesichtserkennungsprogrammen in den Straßen? Von Präventivhaft? Von der sich immer mehr etablierenden Totalüberwachung der Bürger?&lt;/br&gt;&lt;/br&gt;
-
-	Was halten wir davon, dass unsere Volksvertreter immer mehr Gesetze nur noch abnicken, ohne sie überhaupt nur einsehen zu dürfen (Bspl. TTIP, CETA usf.) ?&lt;/br&gt;&lt;/br&gt;
-
-	Wie steht es mit dem bedingungslosen Grundeinkommen? Dem Recht auf Wohnen? Wollen wir neue, nachhaltigere und gemeinwohlorientiertere Wirtschaftsformen?
-&lt;/blockquote&gt;"
+	Indem wir die Volksabstimmung auf dem Weg der Verfassungsbildung einführen, wird der Widerstand gebrochen. Parteien sind private Organisationen, die im Rahmen der Verfassung tätig sein dürfen. Über die Verfassung haben sie nichts zu bestimmen.
+&lt;/p&gt;"
                 }
             }
         }
