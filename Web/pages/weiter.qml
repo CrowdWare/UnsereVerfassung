@@ -22,7 +22,9 @@ Content {
     &lt;li class=&quot;breadcrumb-item&quot;&gt;&lt;a href=&quot;abstimmen.html&quot;&gt;Abstimmen&lt;/a&gt;&lt;/li&gt;
 	&lt;li class=&quot;breadcrumb-item&quot;&gt;&lt;a href=&quot;ergebnis.html&quot;&gt;Ergebnis&lt;/a&gt;&lt;/li&gt;
 	&lt;li class=&quot;breadcrumb-item active&quot; aria-current=&quot;page&quot;&gt;Wie Weiter?&lt;/li&gt;
-  &lt;/ol&gt;
+	&lt;li class=&quot;breadcrumb-item&quot;&gt;&lt;a href=&quot;offenefragen.html&quot;&gt;Offene Fragen&lt;/a&gt;&lt;/li&gt;
+	&lt;li class=&quot;breadcrumb-item&quot;&gt;&lt;a href=&quot;hinweise.html&quot;&gt;Hinweise&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
 &lt;/nav&gt;"
                     adminlabel: "breadcrumb"
                 }
