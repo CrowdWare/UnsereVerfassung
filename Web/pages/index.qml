@@ -53,7 +53,7 @@ Content {
     Wir leben in einem Staat, in dem sich die Politiker zwar ständig auf das &quot;Grundgesetz&quot; berufen, in dem die wesentlichsten Grundsätze und Fragen der Demokratie und des Grundgesetzes aber immer mehr außer Acht gelassen werden.
 &lt;/p&gt;
 &lt;p&gt;
-    Entfesselt global agierende Geld- und Wirtschaftsmächte haben unsere Politik &quot;von oben her&quot; im Griff. Der Schutz der Grundrechte, soziale Innovation und alles was &quot;von unten&quot; kommt, wird &quot;von oben her&quot; blockiert. 
+    Entfesselt global agierende Geld- und Wirtschaftsmächte haben unsere Politik &quot;von oben her&quot; im Griff. Der &lt;strong&gt;Schutz der Grundrechte&lt;/strong&gt;, soziale Innovation und alles was &quot;von unten&quot; kommt, wird &quot;von oben her&quot; blockiert. 
 &lt;/p&gt;
 &lt;p&gt;
 	Wie schaffen wir es, uns der heillosen Übermacht der Wirtschafts- und der Geldmarktmächte zu erwehren? Wie schaffen wir es, wirklich demokratische Strukturen herzustellen und Deutschland endlich so einzurichten, wie es dem Grundgesetz entspricht?  
