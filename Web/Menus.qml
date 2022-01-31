@@ -55,7 +55,7 @@ Menus {
         }
         Menuitem {
             title: 'Aktuelles'
-            url: 'http://unsere-verfassung.blogspot.com'
+            url: 'aktuelles.html'
             icon: ''
         }
         Menuitem {
