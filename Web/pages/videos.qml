@@ -168,7 +168,7 @@ allowfullscreen&gt;
                 span: 12
 
                 Text {
-                    text: "&lt;h2&gt;Deutsche Geschichte&lt;/h2&gt;
+                    text: "&lt;h2 class=&quot;mt-5&quot;&gt;Deutsche Geschichte&lt;/h2&gt;
 
 &lt;p&gt;
 	Dass die 1948 anstehende Urabsprache über die 
