@@ -79,7 +79,7 @@ Content {
                 }
 
                 Text {
-                    text: "&lt;ul class=&quot;question&quot;&gt;
+                    text: "&lt;ul class=&quot;question&quot; style=&quot;padding-left: 0px;&quot;&gt;
 	&lt;li&gt;&lt;small&gt;[Ich will abstimmen]&lt;/small&gt;&lt;/br&gt;&lt;a target=&quot;_blank&quot; href=&quot;http://www.ichwillabstimmen.de/warum&quot;&gt;Warum Volksabstimmung?&lt;/a&gt;&lt;/li&gt;
 	&lt;li&gt;&lt;small&gt;[Ich will abstimmen]&lt;/small&gt;&lt;/br&gt;&lt;a target=&quot;_blank&quot; href=&quot;http://www.ichwillabstimmen.de/wie-geregelt&quot;&gt;Wie soll Volksabstimmung funktionieren?&lt;/a&gt;&lt;/li&gt;
 	&lt;li&gt;&lt;small&gt;[Ich will abstimmen]&lt;/small&gt;&lt;/br&gt;&lt;a target=&quot;_blank&quot; href=&quot;http://www.ichwillabstimmen.de/fragen-zur-volksabstimmung&quot;&gt;Fragen zur Volksabstimmung&lt;/a&gt;&lt;/li&gt;
