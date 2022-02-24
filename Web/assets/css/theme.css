@@ -51,10 +51,11 @@ li::before
 
 .question li 
 {
-  background: url('../../assets/images/frage-button-45.png') no-repeat left center;
-  padding: 5px 0px 5px 55px;
+  background: url('../../assets/images/frage-button-45.png') no-repeat left top;
+  padding: 5px 0px 10px 55px;
   list-style: none;
   margin: 0;
+  margin-bottom: 10px;
   vertical-align: middle;
   content: ""
 }

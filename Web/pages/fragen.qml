@@ -42,7 +42,7 @@ Content {
                 }
 
                 Text {
-                    text: "&lt;ul class=&quot;question&quot;&gt;
+                    text: "&lt;ul class=&quot;question&quot; style=&quot;padding-left: 0px;&quot;&gt;
 	&lt;li&gt;&lt;a href=&quot;antwort1.html&quot;&gt;(1) Ist das Grundgesetz KEINE Verfassung?&lt;/a&gt;&lt;/li&gt;
 	&lt;li&gt;&lt;a href=&quot;antwort2.html&quot;&gt;(2) Warum wollt Ihr die Einführung der Volksabstimmung mit der Verfassungsfrage verbinden?&lt;/a&gt;&lt;/li&gt;
 	&lt;li&gt;&lt;a href=&quot;antwort3.html&quot;&gt;(3) Der Weg geht heute in Richtung &quot;Europa&quot;! Betreibt Ihr da nicht ein rückwärtsgewandtes nationalstaatliches Projekt?&lt;/a&gt;&lt;/li&gt;
@@ -55,7 +55,8 @@ Content {
 	&lt;li&gt;&lt;a href=&quot;antwort10.html&quot;&gt;(10) Könnten durch Volksabstimmung nicht wieder diskriminierende Gesetze, die Todesstrafe, ja selbst die Abschaffung der Demokratie beschlossen werden?&lt;/a&gt;&lt;/li&gt;
 	&lt;li&gt;&lt;a href=&quot;antwort11.html&quot;&gt;(11) Auf dem Weg zur Verfassung: Wie sehen die Änderungen des Grundgesetzes im Einzelnen aus?&lt;/a&gt;&lt;/li&gt;
 	&lt;li&gt;&lt;a href=&quot;antwort12.html&quot;&gt;(12) Wie seht Ihr die Schwierigkeiten des Projektes - und wie wollt Ihr ihnen begegnen?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;"
+&lt;/ul&gt;
+"
                     adminlabel: "Liste der Fragen"
                 }
             }
