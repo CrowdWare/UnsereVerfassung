@@ -34,7 +34,7 @@ Content {
 
 	  &lt;div class=&quot;feature col&quot;&gt;
         &lt;div class=&quot;feature-icon bg-primary bg-gradient&quot;&gt;
-		&lt;a target=&quot;_blank&quot; href=&quot;https://unsere-verfassung.blogspot.com/p/videos.html&quot;&gt;
+		&lt;a target=&quot;_blank&quot; href=&quot;https://unsere-verfassung.blogspot.com/p/aktion-berichte.html&quot;&gt;
          &lt;img style=&quot;padding-bottom: 4px;padding-left: 4px;padding-top: 4px;padding-right: 4px;&quot; src=&quot;assets/images/activity_info.svg&quot; alt=&quot;Newspaper&quot; width=&quot;64&quot; height=&quot;64&quot;&gt;
         &lt;/a&gt;
 		&lt;/div&gt;
