@@ -7,6 +7,7 @@ Menus {
             title: 'Unsere Verfassung'
             url: '#'
             icon: ''
+            attributes: ''
             Menuitem {
                 title: 'Idee'
                 url: 'index.html'
@@ -32,6 +33,7 @@ Menus {
             title: 'ABSTIMMEN'
             url: '#'
             icon: ''
+            attributes: ''
             Menuitem {
                 title: 'Abstimmen'
                 url: 'abstimmen.html'
@@ -52,16 +54,19 @@ Menus {
             title: 'Wie helfen?'
             url: 'helfen.html'
             icon: ''
+            attributes: ''
         }
         Menuitem {
             title: 'Aktuelles'
-            url: 'aktuelles.html'
+            url: 'https://aktuelles.unsere-verfassung.de'
             icon: ''
+            attributes: ''
         }
         Menuitem {
             title: 'Wer wir sind'
             url: '#'
             icon: ''
+            attributes: ''
             Menuitem {
                 title: 'Wir'
                 url: 'wir.html'
