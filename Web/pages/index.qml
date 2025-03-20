@@ -76,6 +76,7 @@ Content {
     }
 
     Section {
+        style: "background-color: #E6E6E6;"
 
         Row {
 
@@ -223,6 +224,7 @@ Content {
     }
 
     Section {
+        style: "background-color: #E6E6E6;"
 
         Row {
 
