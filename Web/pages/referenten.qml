@@ -149,15 +149,6 @@ Content {
                 span: 4
 
                 Image {
-                    src: "referenten-heinz.png"
-                    link: "heinz.html"
-                }
-            }
-
-            Column {
-                span: 4
-
-                Image {
                     src: "referenten-ivo.png"
                     link: "ivo.html"
                 }
@@ -170,6 +161,10 @@ Content {
                     src: "referenten-ralph.png"
                     link: "ralph.html"
                 }
+            }
+
+            Column {
+                span: 4
             }
         }
     }
