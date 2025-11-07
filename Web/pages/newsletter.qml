@@ -26,14 +26,19 @@ Content {
 	In jedem Newsletter ist ein Link, über den die 
 	Anmeldung gelöscht werden kann.
 &lt;/p&gt;
-&lt;iframe name=&quot;I3&quot; 
-	height=&quot;300&quot; 
-	width=&quot;325&quot; 
-	scrolling=&quot;no&quot; 
-	src=&quot;https://unsere-verfassung.com/index.php/464-2/&quot; 
-	style=&quot;border: 1px solid #999999; padding-left: 4; padding-right: 4; padding-top: 1; padding-bottom: 1&quot;&gt;
-    Ihr Browser unterstützt Inlineframes nicht oder zeigt sie in der derzeitigen Konfiguration nicht an.
-&lt;/iframe&gt;"
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+	Anmelden unter:
+&lt;/p&gt;
+&lt;a href=&quot;mailto:kontakt@unsere-verfassung.de?subject=Hiermit melde ich mich zum Newsletter an&quot;&gt;kontakt@unsere-verfassung.de&lt;/a&gt;
+&lt;p&gt;Betreff: Newsletter Anmeldung&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+	Abmelden unter:
+&lt;/p&gt;
+&lt;a href=&quot;mailto:kontakt@unsere-verfassung.de?subject=Hiermit melde ich mich vom Newsletter ab&quot;&gt;kontakt@unsere-verfassung.de&lt;/a&gt;
+&lt;p&gt;Betreff: Newsletter Abmeldung&lt;/p&gt;"
                 }
             }
         }
