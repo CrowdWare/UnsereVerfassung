@@ -105,7 +105,7 @@ Content {
                     text: "&lt;h2 class=&quot;mt-3&quot;&gt;Anmelden zum Newsletter&lt;/h2&gt;
 &lt;p&gt;
 	Du hast Interesse, die Sache weiter zu verfolgen?&lt;/br&gt;
-	Dann melde Dich bei unserem Newsletter an. 
+	Dann melde Dich bei unserem &lt;a href=&quot;newsletter.html&quot;&gt;Newsletter&lt;/a&gt; an. 
 &lt;/p&gt;"
                     adminlabel: "Anmelden zum Newsletter"
                 }
@@ -115,14 +115,6 @@ Content {
                 span: 6
 
                 Text {
-                    text: "&lt;iframe name=&quot;I3&quot; 
-	height=&quot;300&quot; 
-	width=&quot;325&quot; 
-	scrolling=&quot;no&quot; 
-	src=&quot;https://unsere-verfassung.com/index.php/464-2/&quot; 
-	style=&quot;border: 1px solid #999999; padding-left: 4; padding-right: 4; padding-top: 1; padding-bottom: 1&quot;&gt;
-    Ihr Browser unterstützt Inlineframes nicht oder zeigt sie in der derzeitigen Konfiguration nicht an.
-&lt;/iframe&gt;"
                     adminlabel: "nl frame"
                 }
             }
